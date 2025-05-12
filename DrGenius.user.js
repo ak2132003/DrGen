@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         🏆 الأدوات الذهبية - النسخة المحمية
 // @namespace    https://github.com/ak2132003
-// @version      5.1
-// @description  نظام متكامل مع حماية متقدمة وإدارة مركزية
+// @version      5.2
+// @description  نظام متكامل مع حماية متقدمة وإدارة مركزية مع دعم JSON
 // @author       د.أحمد خالد 👑
 // @match        *://*.centurygames.com/*
 // @grant        GM_xmlhttpRequest
@@ -11,12 +11,123 @@
 // @grant        unsafeWindow
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/ak2132003/DrGen/refs/heads/main/DrGenius
-// @downloadURL  https://raw.githubusercontent.com/ak2132003/DrGen/refs/heads/main/DrGenius
+// @updateURL    https://raw.githubusercontent.com/ak2132003/DrGen/main/DrGenius
+// @downloadURL  https://raw.githubusercontent.com/ak2132003/DrGen/main/DrGenius
 // ==/UserScript==
 
 (function () {
     'use strict';
+
+    // ============== روابط JSON ==============
+    const scriptStatusUrl = "https://raw.githubusercontent.com/ak2132003/DrGen/main/scriptStatus.json"; // رابط JSON للحالة
+    const allowedSNSIDsUrl = "https://raw.githubusercontent.com/ak2132003/DrGen/main/allowedSNSIDs.json"; // رابط JSON للـ SNSID
+
+    let isScriptEnabled = true; // الحالة الافتراضية
+    let allowedSNSIDs = { allowed_ids: [] }; // قائمة فارغة سيتم تحميلها
+
+    // ============== تحميل حالة تشغيل السكربت ==============
+    async function fetchScriptStatus() {
+        try {
+            const response = await fetch(scriptStatusUrl);
+            if (!response.ok) {
+                throw new Error(`فشل تحميل حالة السكربت: ${response.statusText}`);
+            }
+            const data = await response.json();
+            isScriptEnabled = data.enabled; // استخدام الحالة من JSON
+            console.log(`✅ حالة السكربت: ${isScriptEnabled ? "مفعل" : "معطل"}`);
+        } catch (error) {
+            console.error("❌ خطأ أثناء تحميل حالة السكربت:", error);
+        }
+    }
+
+    // ============== تحميل قائمة الـ SNSIDs المسموحة ==============
+    async function fetchAllowedSNSIDs() {
+        try {
+            const response = await fetch(allowedSNSIDsUrl);
+            if (!response.ok) {
+                throw new Error(`فشل تحميل قائمة الـ SNSIDs: ${response.statusText}`);
+            }
+            allowedSNSIDs = await response.json();
+            console.log("✅ تم تحميل قائمة SNSIDs المسموحة:", allowedSNSIDs);
+        } catch (error) {
+            console.error("❌ خطأ أثناء تحميل قائمة الـ SNSIDs:", error);
+        }
+    }
+
+    // ============== وظيفة التحقق من الـ SNSID ==============
+    function isSNSIDAllowed(snsid) {
+        return allowedSNSIDs.allowed_ids.includes(snsid);
+    }
+
+    // ============== وظيفة استخراج الـ SNSID ==============
+    function extractSNSID() {
+        try {
+            if (!isScriptEnabled) {
+                console.warn("السكربت معطل حاليًا.");
+                return null;
+            }
+
+            // الطريقة الأولى: البحث في كود الصفحة
+            const snsidMatch = document.documentElement.innerHTML.match(/var snsid\s*=\s*"(\d+)"/);
+            if (snsidMatch && snsidMatch[1]) {
+                return snsidMatch[1];
+            }
+
+            // الطريقة الثانية: البحث في window object
+            if (unsafeWindow.snsid) {
+                return unsafeWindow.snsid.toString();
+            }
+
+            // الطريقة الثالثة: البحث في localStorage
+            const fbData = localStorage.getItem('fb_data');
+            if (fbData) {
+                const fbJson = JSON.parse(fbData);
+                if (fbJson.user && fbJson.user.id) {
+                    return fbJson.user.id;
+                }
+            }
+
+            console.warn("لم يتم العثور على SNSID في أي من المصادر");
+            return null;
+        } catch (e) {
+            console.error("حدث خطأ أثناء استخراج SNSID:", e);
+            return null;
+        }
+    }
+
+    // ============== التحقق من الـ SNSID ====================
+    async function validateSNSID() {
+        const snsid = extractSNSID();
+        if (snsid) {
+            if (isSNSIDAllowed(snsid)) {
+                console.log(`✅ SNSID ${snsid} مسموح.`);
+            } else {
+                console.warn(`❌ SNSID ${snsid} غير مسموح.`);
+            }
+        } else {
+            console.warn("⚠️ تعذر استخراج الـ SNSID.");
+        }
+    }
+
+    // ============== وظيفة رئيسية ====================
+    async function main() {
+        // تحميل بيانات JSON
+        await fetchScriptStatus();
+        if (!isScriptEnabled) {
+            console.warn("⚠️ السكربت معطل حسب حالة JSON.");
+            return;
+        }
+
+        await fetchAllowedSNSIDs();
+        await validateSNSID();
+
+        // بقية الكود الخاص بالسكربت هنا...
+        console.log("🚀 تشغيل الأدوات الذهبية...");
+    }
+
+    // ============== تشغيل السكربت ====================
+    main();
+})();
 
     // ============== إعدادات التصميم الفاخرة ==============
     const style = document.createElement('style');
