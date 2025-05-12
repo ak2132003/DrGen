@@ -20,7 +20,7 @@
 
     // ============== روابط JSON ==============
     const scriptStatusUrl = "https://raw.githubusercontent.com/ak2132003/allowconf/refs/heads/main/scriptStatus.json"; // رابط JSON للحالة
-    const allowedSNSIDsUrl = "https://raw.githubusercontent.com/ak2132003/DrGen/main/allowedSNSIDs.json"; // رابط JSON للـ SNSID
+    const allowedSNSIDsUrl = "https://raw.githubusercontent.com/ak2132003/allowusr/refs/heads/main/allowedSNSIDs.json?token=GHSAT0AAAAAADCRC77WCZB47QG5N4QI6W4W2BCJIEQ"; // رابط JSON للـ SNSID
 
     let isScriptEnabled = true; // الحالة الافتراضية
     let allowedSNSIDs = { allowed_ids: [] }; // قائمة فارغة سيتم تحميلها
