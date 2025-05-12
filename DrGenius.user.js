@@ -19,7 +19,7 @@
     'use strict';
 
     // ============== الإعدادات ==============
-    const githubToken = "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"; // التوكن الخاص بك
+    const githubToken = "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"; // التوكن الخاص بك
     const scriptUrl = "https://raw.githubusercontent.com/ak2132003/allowusr/refs/heads/main/kkkk.json"; // رابط GitHub Raw
 
     // ============== تحميل وتشغيل الكود ==============
