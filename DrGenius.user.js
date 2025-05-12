@@ -9,10 +9,10 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        unsafeWindow
-// @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js
+// @require      https://github.com/ak2132003/DrGen/raw/refs/heads/main/DrGenius.user.js
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/ak2132003/DrGen/main/DrGenius
-// @downloadURL  https://raw.githubusercontent.com/ak2132003/DrGen/main/DrGenius
+// @updateURL    https://github.com/ak2132003/DrGen/raw/refs/heads/main/DrGenius.user.js
+// @downloadURL  https://github.com/ak2132003/DrGen/raw/refs/heads/main/DrGenius.user.js
 // ==/UserScript==
 
 (function() {
