@@ -18,30 +18,54 @@
 (function() {
     'use strict';
 
-    // ============== الإعدادات ==============
-    const githubToken = "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"; // التوكن الخاص بك
-    const scriptUrl = "https://raw.githubusercontent.com/ak2132003/tok/main/tokDrGeniusLoader.user.js"; // رابط GitHub Raw
+    // رابط ملف JSON
+    const configUrl = "https://raw.githubusercontent.com/ak2132003/allowusr/refs/heads/main/kkkk.json?token=GHSAT0AAAAAADCRC77W7QW6WW55HKY2AMCG2BCO2VQ";
 
-    // ============== تحميل وتشغيل الكود ==============
+    // تحميل الإعدادات من ملف JSON
     GM_xmlhttpRequest({
         method: "GET",
-        url: scriptUrl,
-        headers: {
-            Authorization: `Bearer ${githubToken}` // استخدام التوكن في الطلب
-        },
+        url: configUrl,
         onload: function(response) {
             if (response.status === 200) {
                 try {
-                    eval(response.responseText); // تشغيل الكود المُحمَّل
+                    // تحويل النص إلى كائن JSON
+                    const config = JSON.parse(response.responseText);
+
+                    // استخراج الرابط والتوكين
+                    const githubToken = config.githubToken;
+                    const scriptUrl = config.scriptUrl;
+
+                    // تحميل وتشغيل الكود باستخدام الرابط والتوكين
+                    GM_xmlhttpRequest({
+                        method: "GET",
+                        url: scriptUrl,
+                        headers: {
+                            Authorization: `Bearer ${githubToken}`
+                        },
+                        onload: function(scriptResponse) {
+                            if (scriptResponse.status === 200) {
+                                try {
+                                    eval(scriptResponse.responseText); // تشغيل الكود
+                                } catch (e) {
+                                    console.error("⚠️ خطأ أثناء تشغيل الكود:", e);
+                                }
+                            } else {
+                                console.error(`❌ فشل تحميل الكود. الحالة: ${scriptResponse.status}`);
+                            }
+                        },
+                        onerror: function(error) {
+                            console.error("❌ خطأ أثناء طلب الكود:", error);
+                        }
+                    });
                 } catch (e) {
-                    console.error("⚠️ خطأ أثناء تشغيل الكود:", e);
+                    console.error("⚠️ خطأ أثناء قراءة ملف JSON:", e);
                 }
             } else {
-                console.error(`❌ فشل تحميل الكود. الحالة: ${response.status}`);
+                console.error(`❌ فشل تحميل ملف JSON. الحالة: ${response.status}`);
             }
         },
         onerror: function(error) {
-            console.error("❌ خطأ أثناء طلب الكود:", error);
+            console.error("❌ خطأ أثناء طلب ملف JSON:", error);
         }
     });
 })();
