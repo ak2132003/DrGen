@@ -14,4 +14,1237 @@
 // @updateURL    https://raw.githubusercontent.com/ak2132003/DrGen/refs/heads/main/DrGenius
 // @downloadURL  https://raw.githubusercontent.com/ak2132003/DrGen/refs/heads/main/DrGenius
 // ==/UserScript==
-function _0x34a2(){const _0x5a360a=['admin','Activity/PinballGame','غير\x20مصرح\x20لك\x20بالدخول','toString','#progress-status','#ak-login-btn','fetchConfig','Activity/NewBattlePass','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>إلى\x20النظام\x20الذهبي\x20للأدوات</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22farm-name\x22>','مزرعة\x20غير\x20معروفة','golden-toast','👀\x20الاختلافات','currentUserInfo','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>⏳\x20جاري\x20المعالجة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>جاري\x20إنهاء\x20مهمة\x20الاختلافات...</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','addEventListener','Activity/FindDifferences','#ak-username','spend_rp.save_data','accessLevel','.close','4050188bhlXfb','SHA256','gameOver','querySelector','#signed-request-input','afterbegin','290htpRlJ','getElementById','9f86d081884c7d659a2feaa0c55ad015','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20خطأ\x20في\x20التسجيل</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>اسم\x20المستخدم\x20أو\x20كلمة\x20المرور\x20غير\x20صحيحة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','944383aukglZ','7568kJRFRQ','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20يلزم\x20تسجيل\x20الدخول</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>يجب\x20تسجيل\x20الدخول\x20كمسؤول\x20لاستخدام\x20هذه\x20الأداة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','No\x20SNSID\x20found','body','createElement','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>🏆\x20تم\x20الانتهاء\x20بنجاح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>قام</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22admin-name\x22>','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>بتنفيذ\x20شراء\x20النقاط\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20بيانات\x20ناقصة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>يجب\x20إدخال\x20signed_request\x20أولاً</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','beforeend','ak-login-panel','gameStart','insertAdjacentHTML','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20يلزم\x20تسجيل\x20الدخول</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>يجب\x20تسجيل\x20الدخول\x20كمسؤول\x20لاستخدام\x20هذه\x20الأداة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','GET','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>⏳\x20جاري\x20المعالجة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>جاري\x20شراء\x20نقاط\x20الجزيرة...</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','none','responseText','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','width','request','name','fetchUsers','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>⚡\x20جاري\x20التحميل</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div>جاري\x20فتح\x20المزرعة\x20المحددة...</div>\x0a\x20\x20\x20\x20','error','getDrop','verifyUser','Failed\x20to\x20load\x20users\x20list:','enabled','title','find','selfDestruct','message','div','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20قيمة\x20غير\x20صالحة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>يجب\x20إدخال\x20رقم\x20بين\x201\x20و\x2045</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','action','.panel-content','💎\x20شراء\x20نقاط\x20الجزيرة','onclick','innerHTML','🎁\x20جوائز\x20الموسم','/Activity/UniversalDrop.save_data','golden-farm-panel','golden-btn','requiredVersion','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>⏳\x20جاري\x20المعالجة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>جاري\x20تجميع\x20جوائز\x20BattlePass...</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','spend_rp','6XPXfPy','1999781ZESQaO','ak-panel','form','15165YuApvS','block','\x20مرة\x20ل</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22farm-name\x22>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>الأدوات\x20الذهبية\x20VIP</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22panel-content\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','golden_tools_ahmed_khaled_2023_ak2132003','ak-farm-panel','golden-tools-ui','🛠️\x20النظام\x20غير\x20متاح\x20حالياً','\x0a\x20\x20\x20\x20\x20\x20\x20\x20@import\x20url(\x27https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20fadeIn\x20{\x20from\x20{\x20opacity:\x200;\x20}\x20to\x20{\x20opacity:\x201;\x20}\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20slideIn\x20{\x20from\x20{\x20transform:\x20translateY(20px);\x20opacity:\x200;\x20}\x20to\x20{\x20transform:\x20translateY(0);\x20opacity:\x201;\x20}\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20pulse\x20{\x200%\x20{\x20transform:\x20scale(1);\x20}\x2050%\x20{\x20transform:\x20scale(1.05);\x20}\x20100%\x20{\x20transform:\x20scale(1);\x20}\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20glow\x20{\x200%\x20{\x20box-shadow:\x200\x200\x2010px\x20rgba(255,215,0,0.7);\x20}\x2050%\x20{\x20box-shadow:\x200\x200\x2020px\x20rgba(255,215,0,0.9);\x20}\x20100%\x20{\x20box-shadow:\x200\x200\x2010px\x20rgba(255,215,0,0.7);\x20}\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20زر\x20الأدوات\x20الرئيسي\x20-\x20تصميم\x20ذهبي\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toggle\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20bottom:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2070px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2070px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0abackground:\x20url(\x27https://drahmedkhaled.neocities.org/%E2%80%94Pngtree%E2%80%94golden%20crown%20vector%20design_5415535-Photoroom.png\x27)\x20no-repeat\x20center;\x0a\x20\x20\x20\x20background-size:\x20contain;\x0a\x20\x20\x20\x20background-color:\x20rgba(0,\x200,\x200,\x200.6);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2034px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x209999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2030px\x20rgba(212,\x20175,\x2055,\x200.6);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x203px\x20solid\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20pulse\x202s\x20infinite,\x20glow\x203s\x20infinite;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x201px\x201px\x203px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toggle:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20scale(1.15)\x20rotate(15deg);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2015px\x2040px\x20rgba(212,\x20175,\x2055,\x200.8);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20لوحة\x20الأدوات\x20الرئيسية\x20-\x20تصميم\x20مركزي\x20فاخر\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2020px\x2050px\x20rgba(0,\x200,\x200,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20fadeIn\x200.4s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010000;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#e0e0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(to\x20bottom,\x20#ffffff,\x20#f9f9f9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-panel\x20h3\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x200\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2026px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#D4AF37;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x202px\x20solid\x20#f0f0f0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x201px\x201px\x202px\x20rgba(0,0,0,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20أزرار\x20الأدوات\x20-\x20تصميم\x20ذهبي\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2012px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#D4AF37,\x20#FFD700);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2018px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x206px\x2015px\x20rgba(212,\x20175,\x2055,\x200.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-btn:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-3px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2020px\x20rgba(212,\x20175,\x2055,\x200.6);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-btn:after\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20content:\x20\x27\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x20-50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x20-50%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20200%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20200%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20to\x20bottom\x20right,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20rgba(255,255,255,0)\x2045%,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20rgba(255,255,255,0.8)\x2050%,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20rgba(255,255,255,0)\x2055%\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20rotate(30deg);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20shine\x203s\x20infinite;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20@keyframes\x20shine\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x200%\x20{\x20transform:\x20translateX(-100%)\x20rotate(30deg);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20100%\x20{\x20transform:\x20translateX(100%)\x20rotate(30deg);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20رسائل\x20التنبيه\x20الفاخرة\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0abackground:\x20url(\x27https://drahmedkhaled.neocities.org/24783.jpg\x27)\x20no-repeat\x20center;\x0a\x20\x20\x20\x20background-size:\x20cover;\x0a\x20\x20\x20\x20backdrop-filter:\x20blur(10px);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2035px\x2045px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2022px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2020px\x2050px\x20rgba(0,\x200,\x200,\x200.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010001;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x2090%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20fadeIn\x200.4s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20line-height:\x201.8;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x202px\x20solid\x20rgba(255,\x20255,\x20255,\x200.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast.loading\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#4169E1,\x20#6495ED);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast.error\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#FF6347,\x20#FF4500);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast\x20.close\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgba(255,\x20255,\x20255,\x200.9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast\x20.close:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20scale(1.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast\x20.mission-title\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2028px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2015px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x201px\x201px\x203px\x20rgba(0,0,0,0.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast\x20.admin-name\x20{\x0a\x20\x20\x20\x20font-size:\x2030px;\x0a\x20\x20\x20\x20margin:\x2010px\x200;\x0a\x20\x20\x20\x20padding:\x208px\x2015px;\x0a\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20display:\x20inline-block;\x0a\x20\x20\x20\x20background:\x20linear-gradient(90deg,\x20#FFD700,\x20#b8860b,\x20#FFD700);\x0a\x20\x20\x20\x20background-size:\x20200%;\x0a\x20\x20\x20\x20background-clip:\x20text;\x0a\x20\x20\x20\x20-webkit-background-clip:\x20text;\x0a\x20\x20\x20\x20color:\x20transparent;\x0a\x20\x20\x20\x20-webkit-text-fill-color:\x20transparent;\x0a\x20\x20\x20\x20text-shadow:\x201px\x201px\x204px\x20rgba(0,\x200,\x200,\x200.4);\x0a\x20\x20\x20\x20animation:\x20shineGold\x203s\x20ease-in-out\x20infinite;\x0a}\x0a\x0a@keyframes\x20shineGold\x20{\x0a\x20\x20\x20\x200%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-position:\x200%\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x200\x205px\x20rgba(255,\x20215,\x200,\x200.3);\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x2050%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-position:\x20100%\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x200\x2012px\x20rgba(255,\x20215,\x200,\x200.7);\x0a\x20\x20\x20\x20}\x0a\x20\x20\x20\x20100%\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-position:\x200%\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x200\x200\x205px\x20rgba(255,\x20215,\x200,\x200.3);\x0a\x20\x20\x20\x20}\x0a}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast\x20.farm-name\x20{\x0a\x20\x20\x20\x20font-size:\x2024px;\x0a\x20\x20\x20\x20color:\x20#1E3A8A;\x20/*\x20الأزرق\x20الغامق\x20*/\x0a\x20\x20\x20\x20margin:\x2010px\x200;\x0a\x20\x20\x20\x20background:\x20rgba(255,\x20255,\x20255,\x200.2);\x0a\x20\x20\x20\x20padding:\x208px\x2015px;\x0a\x20\x20\x20\x20border-radius:\x208px;\x0a\x20\x20\x20\x20display:\x20inline-block;\x0a\x20\x20\x20\x20text-shadow:\x200\x200\x2010px\x20#1E3A8A,\x200\x200\x2020px\x20#1E3A8A,\x200\x200\x2030px\x20#1E3A8A;\x20/*\x20تأثير\x20التوهج\x20الأزرق\x20الغامق\x20*/\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-toast\x20.signature\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20rgba(255,\x2020,\x20147,\x200.9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-style:\x20italic;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20لوحة\x20تسجيل\x20الدخول\x20الذهبية\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-login-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2035px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2020px\x2050px\x20rgba(0,\x200,\x200,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20fadeIn\x200.4s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010002;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#e0e0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(to\x20bottom,\x20#ffffff,\x20#f9f9f9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-login-panel\x20h3\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x200\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2028px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#D4AF37;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x202px\x20solid\x20#f0f0f0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x201px\x201px\x202px\x20rgba(0,0,0,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-login-panel\x20input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20calc(100%\x20-\x2030px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2018px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2017px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(255,\x20215,\x200,\x200.05);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-login-panel\x20input:focus\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20#D4AF37;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x200\x203px\x20rgba(212,\x20175,\x2055,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20outline:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-login-panel\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#D4AF37,\x20#FFD700);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2019px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x206px\x2015px\x20rgba(212,\x20175,\x2055,\x200.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-login-panel\x20button:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-3px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2020px\x20rgba(212,\x20175,\x2055,\x200.6);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-login-panel\x20.welcome-text\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2017px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#666;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-style:\x20italic;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20لوحة\x20تبديل\x20المزرعة\x20الذهبية\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-farm-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2035px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20450px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2020px\x2050px\x20rgba(0,\x200,\x200,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20fadeIn\x200.4s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010003;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#e0e0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(to\x20bottom,\x20#ffffff,\x20#f9f9f9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-farm-panel\x20.panel-header\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2028px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#D4AF37;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x202px\x20solid\x20#f0f0f0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x201px\x201px\x202px\x20rgba(0,0,0,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-farm-panel\x20select,\x20.golden-farm-panel\x20input[type=\x22text\x22]\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20calc(100%\x20-\x2030px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2018px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2017px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(255,\x20215,\x200,\x200.05);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-farm-panel\x20select:focus,\x20.golden-farm-panel\x20input[type=\x22text\x22]:focus\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20#D4AF37;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x200\x203px\x20rgba(212,\x20175,\x2055,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20outline:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-farm-panel\x20.action-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(135deg,\x20#D4AF37,\x20#FFD700);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2018px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2019px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2012px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x206px\x2015px\x20rgba(212,\x20175,\x2055,\x200.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-farm-panel\x20.action-btn:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-3px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2020px\x20rgba(212,\x20175,\x2055,\x200.6);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-farm-panel\x20.close-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#999;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-farm-panel\x20.close-btn:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#D4AF37;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20rotate(90deg)\x20scale(1.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20/*\x20لوحة\x20شراء\x20النقاط\x20*/\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-points-panel\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2035px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20450px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2020px\x2050px\x20rgba(0,\x200,\x200,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20fadeIn\x200.4s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x2010004;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#e0e0e0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(to\x20bottom,\x20#ffffff,\x20#f9f9f9);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-points-panel\x20.panel-header\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2028px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#D4AF37;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2030px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:\x202px\x20solid\x20#f0f0f0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20700;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-shadow:\x201px\x201px\x202px\x20rgba(0,0,0,0.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-points-panel\x20input\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20calc(100%\x20-\x2030px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2018px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2017px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(255,\x20215,\x200,\x200.05);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.golden-points-panel\x20input:focus\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20#D4AF37;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x200\x200\x203px\x20rgba(212,\x20175,\x2055,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20outline:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20','heart','484ADhgSY','readyState','match','email','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22signature\x22>برمجة\x20د.\x20أحمد\x20خالد</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','token\x20GHSAT0AAAAAADCRC77XNNAU4YA22FCZ3EIW2BCHYTQ','/Activity/TakeoutShop4','MD5','handler','👵\x20مهمة\x20الجدة','Failed\x20to\x20load\x20config:','الأدوات\x20الذهبية\x20-\x20د.\x20أحمد\x20خالد','submit','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>بتنفيذ\x20مهمة\x20الجدة\x20ل</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22farm-name\x22>','101816JhHEgt','special_events','.close-btn','log','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>بتنفيذ\x20مهمة\x20بلينكو\x20ل</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22farm-name\x22>','changeLockedGift.save_data','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>🔍\x20جاري\x20التجميع</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div>جاري\x20تجميع\x20النقاط\x20المخفية...</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22margin:\x2015px\x200;\x20background:\x20#f0f0f0;\x20border-radius:\x2010px;\x20height:\x2020px;\x20overflow:\x20hidden;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22progress-bar\x22\x20style=\x22height:\x20100%;\x20width:\x200%;\x20background:\x20linear-gradient(90deg,\x20#D4AF37,\x20#FFD700);\x20transition:\x20width\x200.3s;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22progress-status\x22\x20style=\x22font-size:\x2016px;\x20margin-top:\x205px;\x22>تم\x20إرسال\x200\x20/\x20','Activity/PinballGame2','snsid','❓\x20هل\x20تريد\x20إنهاء\x20جميع\x20مستويات\x20الاختلافات؟\x0a\x0aهذا\x20الإجراء\x20يحتاج\x2030\x20طاقة\x0aالمزرعة:\x20','ak-points-panel','5019420yQaldD','USERS_URL','https://farm-th.centurygames.com','maintenanceMessage','CONFIG_URL','golden-maintenance','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>⏳\x20جاري\x20المعالجة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>جاري\x20تنفيذ\x20مهمة\x20الجدة...</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','style','appendChild','open','11871brUnga','#switch-btn','textContent','Security\x20breach\x20detected','gameEnd','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22close-btn\x22\x20title=\x22إغلاق\x22>×</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22panel-header\x22>شراء\x20نقاط\x20الجزيرة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22points-count\x22\x20placeholder=\x22عدد\x20المرات\x20التي\x20تريد\x20الشراء\x20بها\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22action-btn\x22\x20id=\x22buy-points-btn\x22>💎\x20شراء\x20النقاط\x20المحددة</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','value','className','_blank','forEach','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>🎉\x20تم\x20تسجيل\x20الدخول\x20بنجاح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22admin-name\x22>','allowedUsers','#progress-bar','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22close\x22>&times;</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22toast-content\x22>','https://raw.githubusercontent.com/ak2132003/allowusr/main/users.json','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22golden-maintenance\x22\x20style=\x22position:fixed;top:0;left:0;width:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:99999;background:linear-gradient(90deg,#FF4500,#FF6347);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:white;padding:15px;text-align:center;font-family:Tajawal;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:0\x205px\x2015px\x20rgba(0,0,0,0.5);font-weight:bold;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','🔍\x20تجميع\x20النقاط\x20المخفية','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>بتنفيذ\x20مهمة\x20BattlePass\x20ل</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22farm-name\x22>','updateUrl','display','label','level','showMainUI','khaled','checkForUpdates','من\x20أي\x20جائزة\x20تريد\x20البدء؟\x20(1-45)','currentScript','كم\x20مرة\x20تريد\x20تكرار\x20العملية؟\x20(كل\x20تكرار\x20=\x203\x20طلبات)','CHECK_INTERVAL','#points-count','remove','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','DOMContentLoaded','NetUtils','\x20/\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>💎\x20تم\x20الانتهاء\x20بنجاح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>قام</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22admin-name\x22>','input','01001948570','فشل\x20تحميل\x20إعدادات\x20النظام','apiRequest','showMaintenance','add','length','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>بتنفيذ\x20مهمة\x20الاختلافات\x20ل</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22farm-name\x22>','golden-login-panel','golden-panel','/Activity/UniversalDrop','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>✨\x20تم\x20الانتهاء\x20بنجاح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>قام</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22admin-name\x22>','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>⏳\x20جاري\x20المعالجة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>جاري\x20إنهاء\x20مستويات\x20بلينكو...</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','loading','toISOString','scriptHash','Not\x20Found','classList','currentUser','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20قيمة\x20غير\x20صالحة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>يجب\x20إدخال\x20عدد\x20مرات\x20صحيح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20','\x20مرة\x20ل</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22farm-name\x22>','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>بتجميع\x20النقاط\x20المخفية\x20','all','#ak-password','head','init'];_0x34a2=function(){return _0x5a360a;};return _0x34a2();}const _0x3a4978=_0x4015;function _0x4015(_0x1311d0,_0x457bf3){const _0x34a2a9=_0x34a2();return _0x4015=function(_0x4015cf,_0x26e4a9){_0x4015cf=_0x4015cf-0x177;let _0x15f4a7=_0x34a2a9[_0x4015cf];return _0x15f4a7;},_0x4015(_0x1311d0,_0x457bf3);}(function(_0x60d15b,_0x3c37e7){const _0x3eaafb=_0x4015,_0x8b8f7d=_0x60d15b();while(!![]){try{const _0x3b1c80=-parseInt(_0x3eaafb(0x183))/0x1+-parseInt(_0x3eaafb(0x231))/0x2*(-parseInt(_0x3eaafb(0x227))/0x3)+-parseInt(_0x3eaafb(0x1ea))/0x4+-parseInt(_0x3eaafb(0x18e))/0x5+-parseInt(_0x3eaafb(0x223))/0x6*(-parseInt(_0x3eaafb(0x224))/0x7)+-parseInt(_0x3eaafb(0x1f5))/0x8*(parseInt(_0x3eaafb(0x198))/0x9)+-parseInt(_0x3eaafb(0x1f0))/0xa*(-parseInt(_0x3eaafb(0x1f4))/0xb);if(_0x3b1c80===_0x3c37e7)break;else _0x8b8f7d['push'](_0x8b8f7d['shift']());}catch(_0x1c2c18){_0x8b8f7d['push'](_0x8b8f7d['shift']());}}}(_0x34a2,0x9a785));const CONFIG={'CONFIG_URL':'https://raw.githubusercontent.com/ak2132003/allowconf/main/config.json','USERS_URL':_0x3a4978(0x1a6),'SECRET_KEY':_0x3a4978(0x22b),'HASH_SALT':'ahmed@khaled_salt_2023_private','CHECK_INTERVAL':0x1e*0x3c*0x3e8,'CACHE_TIME':0x5*0x3c*0x3e8};(function(){'use strict';const _0x2564cb=_0x3a4978;class _0x3a102a{constructor(){const _0x58cda6=_0x4015;this[_0x58cda6(0x1cb)]=_0x58cda6(0x1f2),this['checkIntegrity']();}['checkIntegrity'](){const _0x450aa6=_0x4015,_0x2c7af0=CryptoJS[_0x450aa6(0x17c)](document[_0x450aa6(0x1b2)][_0x450aa6(0x19a)])[_0x450aa6(0x1d9)]();_0x2c7af0!==this['scriptHash']&&this[_0x450aa6(0x213)]();}[_0x2564cb(0x213)](){const _0x5e65c6=_0x2564cb;unsafeWindow['goldenTools']=null,document[_0x5e65c6(0x1f8)]['innerHTML']='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22position:fixed;top:0;left:0;width:100%;height:100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:#000;color:red;z-index:99999;padding:20%;text-align:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:Arial;font-size:24px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20⚠️\x20تم\x20اكتشاف\x20تلاعب\x20غير\x20مصرح\x20به!<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20الرجاء\x20استخدام\x20النسخة\x20الأصلية\x20من:<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20https://github.com/ak2132003/golden-tools\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20';throw new Error(_0x5e65c6(0x19b));}}class _0x281e98{static async[_0x2564cb(0x1dc)](){const _0x2e1872=_0x2564cb;try{const _0xf865d9=await this[_0x2e1872(0x1bf)](CONFIG[_0x2e1872(0x192)]);if(!_0xf865d9||_0xf865d9[_0x2e1872(0x214)]===_0x2e1872(0x1cc))throw new Error('Config\x20file\x20not\x20found');return _0xf865d9;}catch(_0x1156fc){return console[_0x2e1872(0x20c)](_0x2e1872(0x17f),_0x1156fc),{'enabled':![],'maintenance':!![],'maintenanceMessage':_0x2e1872(0x1be)};}}static async[_0x2564cb(0x20a)](){const _0x413e36=_0x2564cb;try{const _0x34f179=await this[_0x413e36(0x1bf)](CONFIG[_0x413e36(0x18f)]);if(!_0x34f179||_0x34f179['message']==='Not\x20Found')throw new Error('Users\x20file\x20not\x20found');return _0x34f179[_0x413e36(0x1a3)]||[];}catch(_0x5ca49f){return console[_0x413e36(0x20c)](_0x413e36(0x20f),_0x5ca49f),[];}}static['apiRequest'](_0x30742e){return new Promise(_0x5b4748=>{const _0x49ec74=_0x4015;GM_xmlhttpRequest({'method':_0x49ec74(0x202),'url':_0x30742e,'headers':{'Authorization':_0x49ec74(0x17a),'X-Request-Signature':CryptoJS[_0x49ec74(0x1eb)](_0x30742e+CONFIG['SECRET_KEY'])[_0x49ec74(0x1d9)]()},'onload':function(_0x11b765){const _0x588eb0=_0x49ec74;try{const _0x3cc547=JSON['parse'](_0x11b765[_0x588eb0(0x205)]);_0x11b765['status']===0x194||_0x3cc547[_0x588eb0(0x214)]===_0x588eb0(0x1cc)?_0x5b4748(null):_0x5b4748(_0x3cc547);}catch{_0x5b4748(null);}},'onerror':function(){_0x5b4748(null);}});});}}class _0x4501e1{constructor(){const _0x1a4d1e=_0x2564cb;this[_0x1a4d1e(0x1ce)]={'snsid':this['extractSNSID'](),'email':'','accessLevel':0x0,'lastAccess':new Date()[_0x1a4d1e(0x1ca)]()};}['extractSNSID'](){const _0x41ca79=_0x2564cb;try{const _0x48e24f=document['documentElement']['outerHTML'],_0x13b8ec=_0x48e24f[_0x41ca79(0x177)](/var snsid = "(\d+)"/)[0x1];if(!_0x13b8ec)throw new Error(_0x41ca79(0x1f7));return _0x13b8ec;}catch(_0xa2f9d3){return console[_0x41ca79(0x20c)]('Failed\x20to\x20extract\x20SNSID:',_0xa2f9d3),null;}}async[_0x2564cb(0x20e)](_0x19753d){const _0x175f8c=_0x2564cb;if(!this[_0x175f8c(0x1ce)][_0x175f8c(0x18b)])return![];const _0x1e0a65=_0x19753d[_0x175f8c(0x212)](_0x577898=>_0x577898[_0x175f8c(0x18b)]===this[_0x175f8c(0x1ce)][_0x175f8c(0x18b)]);if(_0x1e0a65)return this['currentUser'][_0x175f8c(0x178)]=_0x1e0a65[_0x175f8c(0x178)],this['currentUser'][_0x175f8c(0x1e8)]=_0x1e0a65[_0x175f8c(0x1e8)],!![];return![];}}class _0x99561d{static[_0x2564cb(0x1c0)](_0x3a3f36){const _0x549bbb=_0x2564cb,_0x207d3f=document[_0x549bbb(0x1f1)](_0x549bbb(0x193));if(_0x207d3f)_0x207d3f[_0x549bbb(0x1b6)]();document[_0x549bbb(0x1f8)][_0x549bbb(0x200)](_0x549bbb(0x1ef),_0x549bbb(0x1a7)+(_0x3a3f36||_0x549bbb(0x22e))+_0x549bbb(0x206));}static[_0x2564cb(0x1ae)](_0x29eeb1){const _0x50bd4b=_0x2564cb,_0x2384ba=document[_0x50bd4b(0x1f1)](_0x50bd4b(0x22d));if(_0x2384ba)_0x2384ba[_0x50bd4b(0x1b6)]();document[_0x50bd4b(0x1f8)][_0x50bd4b(0x200)](_0x50bd4b(0x1fd),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22golden-tools-ui\x22\x20style=\x22position:fixed;bottom:20px;right:20px;z-index:9998;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.golden-btn\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20linear-gradient(90deg,#D4AF37,#FFD700);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x204px\x2015px\x20rgba(212,\x20175,\x2055,\x200.6);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Tajawal\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.golden-btn:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-3px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x208px\x2020px\x20rgba(212,\x20175,\x2055,\x200.8);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22golden-btn\x22>👑\x20أدوات\x20د.أحمد</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20');}}class _0x154e20{static async[_0x2564cb(0x1d5)](){const _0x4a5083=_0x2564cb;new _0x3a102a();const [_0x4c1e89,_0x1f491a]=await Promise[_0x4a5083(0x1d2)]([_0x281e98[_0x4a5083(0x1dc)](),_0x281e98['fetchUsers']()]);if(!_0x4c1e89[_0x4a5083(0x210)]||_0x4c1e89['maintenance'])return _0x99561d[_0x4a5083(0x1c0)](_0x4c1e89[_0x4a5083(0x191)]);const _0x97aef9=new _0x4501e1(),_0x339b10=await _0x97aef9[_0x4a5083(0x20e)](_0x1f491a);if(!_0x339b10)return _0x99561d[_0x4a5083(0x1c0)](_0x4a5083(0x1d8));_0x99561d[_0x4a5083(0x1ae)](_0x97aef9[_0x4a5083(0x1ce)]),setInterval(()=>this[_0x4a5083(0x1b0)](),CONFIG[_0x4a5083(0x1b4)]);}static async['checkForUpdates'](){const _0x536c3a=_0x2564cb,_0x3f414c=await _0x281e98[_0x536c3a(0x1dc)]();_0x3f414c[_0x536c3a(0x220)]&&_0x3f414c[_0x536c3a(0x220)]!==GM_info['script']['version']&&(confirm('يتوفر\x20تحديث\x20جديد،\x20هل\x20تريد\x20التحديث\x20الآن؟')&&window[_0x536c3a(0x197)](_0x3f414c[_0x536c3a(0x1aa)],_0x536c3a(0x1a0)));}}document[_0x2564cb(0x232)]==='loading'?document[_0x2564cb(0x1e4)](_0x2564cb(0x1b8),()=>_0x154e20[_0x2564cb(0x1d5)]()):setTimeout(()=>_0x154e20[_0x2564cb(0x1d5)](),0x3e8);}()),(function(){'use strict';const _0x1220b7=_0x3a4978;const _0x1f8f47=document['createElement'](_0x1220b7(0x195));_0x1f8f47['textContent']=_0x1220b7(0x22f),document[_0x1220b7(0x1d4)]['appendChild'](_0x1f8f47);function _0x40ae20(_0x19eb46,_0x5ed9cc=0x0){const _0x45d003=_0x1220b7,_0x4666fd=document[_0x45d003(0x1f9)]('div');return _0x4666fd['className']=_0x45d003(0x1e0),_0x4666fd[_0x45d003(0x21b)]=_0x45d003(0x1a5)+_0x19eb46+_0x45d003(0x1b7),_0x4666fd[_0x45d003(0x1ed)](_0x45d003(0x1e9))[_0x45d003(0x21a)]=()=>_0x4666fd[_0x45d003(0x1b6)](),document[_0x45d003(0x1f8)][_0x45d003(0x196)](_0x4666fd),_0x5ed9cc>0x0&&setTimeout(()=>{const _0x44f189=_0x45d003;_0x4666fd[_0x44f189(0x1b6)]();},_0x5ed9cc),_0x4666fd;}function _0x1f095f(){const _0x175783=_0x1220b7;return unsafeWindow[_0x175783(0x1e2)]?.[_0x175783(0x209)]||_0x175783(0x1df);}function _0x264629(){const _0x3b91d4=_0x1220b7,_0x17faf9=document[_0x3b91d4(0x1f9)]('div');return _0x17faf9[_0x3b91d4(0x19f)]='golden-toggle',_0x17faf9[_0x3b91d4(0x19a)]='',_0x17faf9[_0x3b91d4(0x211)]=_0x3b91d4(0x180),document[_0x3b91d4(0x1f8)][_0x3b91d4(0x196)](_0x17faf9),_0x17faf9;}function _0x251d40(){const _0x5c88d8=_0x1220b7,_0x195732=document[_0x5c88d8(0x1f9)](_0x5c88d8(0x215));return _0x195732[_0x5c88d8(0x19f)]=_0x5c88d8(0x1c5),_0x195732['id']=_0x5c88d8(0x225),_0x195732[_0x5c88d8(0x21b)]=_0x5c88d8(0x22a),document['body'][_0x5c88d8(0x196)](_0x195732),_0x195732;}function _0x2d344d(){const _0x18fb8a=_0x1220b7,_0x3b8b76=document['createElement'](_0x18fb8a(0x215));return _0x3b8b76[_0x18fb8a(0x19f)]=_0x18fb8a(0x1c4),_0x3b8b76['id']=_0x18fb8a(0x1fe),_0x3b8b76[_0x18fb8a(0x21b)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>تسجيل\x20دخول\x20المشرف</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22ak-username\x22\x20placeholder=\x22اسم\x20المستخدم\x22\x20value=\x22admin\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20id=\x22ak-password\x22\x20placeholder=\x22كلمة\x20المرور\x22\x20value=\x22password\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22ak-login-btn\x22>دخول</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22welcome-text\x22>مرحباً\x20بك\x20,برمجة.\x20أحمد\x20خالد</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20',document[_0x18fb8a(0x1f8)][_0x18fb8a(0x196)](_0x3b8b76),_0x3b8b76;}function _0x28be78(){const _0x578029=_0x1220b7,_0x151403=document[_0x578029(0x1f9)](_0x578029(0x215));return _0x151403[_0x578029(0x19f)]=_0x578029(0x21e),_0x151403['id']=_0x578029(0x22c),_0x151403[_0x578029(0x21b)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22close-btn\x22\x20title=\x22إغلاق\x22>×</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22panel-header\x22>فتح\x20المزرعة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22farm-type\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22us\x22>🌾\x20فاميلي\x20فارم\x20(الولايات\x20المتحدة)</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22th\x22>🌸\x20هابي\x20فارم\x20(تايلاند)</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22fr\x22>🌟\x20سوبر\x20فارم\x20(فرنسا)</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22signed-request-input\x22\x20placeholder=\x22أدخل\x20signed_request\x20هنا...\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22action-btn\x22\x20id=\x22switch-btn\x22>🚀\x20دخول\x20للمزرعة\x20المحددة</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20',document[_0x578029(0x1f8)][_0x578029(0x196)](_0x151403),_0x151403;}function _0x11a470(){const _0x209f13=_0x1220b7,_0x2b8df4=document[_0x209f13(0x1f9)](_0x209f13(0x215));return _0x2b8df4[_0x209f13(0x19f)]='golden-points-panel',_0x2b8df4['id']=_0x209f13(0x18d),_0x2b8df4[_0x209f13(0x21b)]=_0x209f13(0x19d),document['body']['appendChild'](_0x2b8df4),_0x2b8df4;}const _0x1f0631=_0x264629(),_0x22e648=_0x251d40(),_0xbd791b=_0x2d344d(),_0x4783ca=_0x28be78(),_0x307673=_0x11a470();_0x22e648[_0x1220b7(0x195)]['display']=_0x1220b7(0x204),_0xbd791b['style'][_0x1220b7(0x1ab)]='none',_0x4783ca[_0x1220b7(0x195)][_0x1220b7(0x1ab)]=_0x1220b7(0x204),_0x307673[_0x1220b7(0x195)]['display']=_0x1220b7(0x204);let _0x4e3aa5=![],_0x243dcc=_0x1220b7(0x1d6);_0x1f0631[_0x1220b7(0x21a)]=()=>{const _0x5cadf4=_0x1220b7;!_0x4e3aa5?(_0xbd791b[_0x5cadf4(0x195)][_0x5cadf4(0x1ab)]=_0x5cadf4(0x228),_0x22e648[_0x5cadf4(0x195)][_0x5cadf4(0x1ab)]='none',_0x4783ca[_0x5cadf4(0x195)][_0x5cadf4(0x1ab)]=_0x5cadf4(0x204),_0x307673[_0x5cadf4(0x195)]['display']=_0x5cadf4(0x204)):(_0x22e648['style']['display']=_0x22e648['style']['display']==='block'?_0x5cadf4(0x204):_0x5cadf4(0x228),_0xbd791b[_0x5cadf4(0x195)]['display']=_0x5cadf4(0x204),_0x4783ca[_0x5cadf4(0x195)][_0x5cadf4(0x1ab)]='none',_0x307673[_0x5cadf4(0x195)]['display']=_0x5cadf4(0x204));},_0xbd791b[_0x1220b7(0x1ed)](_0x1220b7(0x1db))['onclick']=()=>{const _0x264b3f=_0x1220b7,_0x27b848=_0xbd791b[_0x264b3f(0x1ed)](_0x264b3f(0x1e6))[_0x264b3f(0x19e)],_0x20b200=_0xbd791b[_0x264b3f(0x1ed)](_0x264b3f(0x1d3))[_0x264b3f(0x19e)];if(_0x27b848===_0x264b3f(0x1af)&&_0x20b200===_0x264b3f(0x1bd))_0x4e3aa5=!![],_0x243dcc=_0x27b848,_0xbd791b['style'][_0x264b3f(0x1ab)]=_0x264b3f(0x204),_0x22e648[_0x264b3f(0x195)][_0x264b3f(0x1ab)]='block',_0x40ae20(_0x264b3f(0x1a2)+_0x243dcc+_0x264b3f(0x1de)+_0x1f095f()+_0x264b3f(0x179));else{const _0x451c3e=_0x40ae20(_0x264b3f(0x1f3),0xbb8);_0x451c3e[_0x264b3f(0x1cd)][_0x264b3f(0x1c1)](_0x264b3f(0x20c));}};function _0x2c6617(){const _0x4e5160=_0x1220b7;if(!_0x4e3aa5){const _0x2822e9=_0x40ae20(_0x4e5160(0x1f6),0xbb8);_0x2822e9[_0x4e5160(0x1cd)][_0x4e5160(0x1c1)](_0x4e5160(0x20c));return;}_0x22e648['style'][_0x4e5160(0x1ab)]=_0x4e5160(0x204),_0x4783ca[_0x4e5160(0x195)][_0x4e5160(0x1ab)]='block';}function _0x309f4b(){const _0x9cc502=_0x1220b7;if(!_0x4e3aa5){const _0x49e207=_0x40ae20(_0x9cc502(0x1f6),0xbb8);_0x49e207[_0x9cc502(0x1cd)][_0x9cc502(0x1c1)](_0x9cc502(0x20c));return;}_0x22e648[_0x9cc502(0x195)]['display']='none',_0x307673[_0x9cc502(0x195)][_0x9cc502(0x1ab)]=_0x9cc502(0x228);}function _0x3c0c28(){const _0x2f8ec9=_0x1220b7;if(!_0x4e3aa5){const _0x1493af=_0x40ae20('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20يلزم\x20تسجيل\x20الدخول</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>يجب\x20تسجيل\x20الدخول\x20كمسؤول\x20لاستخدام\x20هذه\x20الأداة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',0xbb8);_0x1493af[_0x2f8ec9(0x1cd)][_0x2f8ec9(0x1c1)](_0x2f8ec9(0x20c));return;}const _0x380516=_0x40ae20(_0x2f8ec9(0x194));_0x380516[_0x2f8ec9(0x1cd)][_0x2f8ec9(0x1c1)](_0x2f8ec9(0x1c9));const _0x41d685=[{'level':0x0,'heart':0x1b},{'level':0x1,'heart':0x1f},{'level':0x2,'heart':0x22},{'level':0x3,'heart':0x24},{'level':0x4,'heart':0x26},{'level':0x5,'heart':0x28},{'level':0x6,'heart':0x2e},{'level':0x7,'heart':0x32}];let _0x35c4d4=0x0;_0x41d685[_0x2f8ec9(0x1a1)]((_0x8ffdf1,_0x4a464e)=>{setTimeout(()=>{const _0xe137b8=_0x4015;unsafeWindow[_0xe137b8(0x1b9)]['request'](_0xe137b8(0x17b),{'action':'startGame','level':_0x8ffdf1[_0xe137b8(0x1ad)],'needResponse':_0xe137b8(0x188),'cur_sceneid':0x0}),unsafeWindow['NetUtils']['request']('/Activity/TakeoutShop4',{'action':_0xe137b8(0x1ec),'level':_0x8ffdf1['level'],'heart':String(_0x8ffdf1[_0xe137b8(0x230)]),'cur_sceneid':'0'}),_0x4a464e===_0x41d685[_0xe137b8(0x1c2)]-0x1&&setTimeout(()=>{const _0xe4a6f=_0xe137b8;_0x380516[_0xe4a6f(0x1b6)](),_0x40ae20('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>🎉\x20تم\x20الانتهاء\x20بنجاح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>قام</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22admin-name\x22>'+_0x243dcc+_0xe4a6f(0x182)+_0x1f095f()+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22signature\x22>برمجة\x20د.\x20أحمد\x20خالد</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20');},0x1f4);},_0x35c4d4),_0x35c4d4+=0x1c2;});}function _0x5f01f1(){const _0x498ce8=_0x1220b7;if(!_0x4e3aa5){const _0x42a535=_0x40ae20(_0x498ce8(0x1f6),0xbb8);_0x42a535['classList'][_0x498ce8(0x1c1)](_0x498ce8(0x20c));return;}const _0x3fe8e0=_0x40ae20(_0x498ce8(0x1c8));_0x3fe8e0[_0x498ce8(0x1cd)][_0x498ce8(0x1c1)]('loading');const _0x2e0eda=[0x64,0x12c,0x1f4,0x2ee,0x3e8,0x5dc,0x7d0,0x9c4,0xbb8,0xdac,0xfa0,0x1194];_0x2e0eda[_0x498ce8(0x1a1)](_0x11f5e3=>{const _0x227a17=_0x498ce8;unsafeWindow[_0x227a17(0x1b9)][_0x227a17(0x208)](_0x227a17(0x1d7),{'action':'milestone','score':_0x11f5e3,'needResponse':_0x227a17(0x18a)});}),setTimeout(()=>{const _0x308aac=_0x498ce8;_0x3fe8e0[_0x308aac(0x1b6)](),_0x40ae20('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>🎯\x20تم\x20الانتهاء\x20بنجاح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>قام</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22admin-name\x22>'+_0x243dcc+_0x308aac(0x187)+_0x1f095f()+_0x308aac(0x179));},_0x2e0eda[_0x498ce8(0x1c2)]*0x96);}function _0x5df327(){const _0x5240c2=_0x1220b7;if(!_0x4e3aa5){const _0x1b4fd9=_0x40ae20('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20يلزم\x20تسجيل\x20الدخول</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>يجب\x20تسجيل\x20الدخول\x20كمسؤول\x20لاستخدام\x20هذه\x20الأداة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',0xbb8);_0x1b4fd9[_0x5240c2(0x1cd)]['add'](_0x5240c2(0x20c));return;}const _0x3fb7e2=+prompt(_0x5240c2(0x1b1),'1');if(!_0x3fb7e2||_0x3fb7e2<0x1||_0x3fb7e2>0x2d){const _0x1f1a75=_0x40ae20(_0x5240c2(0x216),0xbb8);_0x1f1a75['classList'][_0x5240c2(0x1c1)](_0x5240c2(0x20c));return;}const _0x296a00=_0x40ae20(_0x5240c2(0x221));_0x296a00[_0x5240c2(0x1cd)][_0x5240c2(0x1c1)](_0x5240c2(0x1c9)),((async()=>{const _0x56618b=_0x5240c2;for(let _0x2e5ae1=_0x3fb7e2;_0x2e5ae1<=0x2d;_0x2e5ae1++){const _0x49fc21=_0x2e5ae1*0x64+'_1';await unsafeWindow[_0x56618b(0x1b9)]['request'](_0x56618b(0x1dd),{'action':'getReward','event':0x31708,'list':[_0x49fc21]}),await new Promise(_0x1d3968=>setTimeout(_0x1d3968,0x64));}_0x296a00[_0x56618b(0x1b6)](),_0x40ae20(_0x56618b(0x1fa)+_0x243dcc+_0x56618b(0x1a9)+_0x1f095f()+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22signature\x22>برمجة\x20د.\x20أحمد\x20خالد</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20');})());}function _0x365efb(){const _0x2c6f82=_0x1220b7;if(!_0x4e3aa5){const _0x86975c=_0x40ae20(_0x2c6f82(0x1f6),0xbb8);_0x86975c[_0x2c6f82(0x1cd)][_0x2c6f82(0x1c1)](_0x2c6f82(0x20c));return;}if(!confirm(_0x2c6f82(0x18c)+_0x1f095f()))return;const _0xd0a47=_0x40ae20(_0x2c6f82(0x1e3));_0xd0a47[_0x2c6f82(0x1cd)][_0x2c6f82(0x1c1)](_0x2c6f82(0x1c9)),((async()=>{const _0x9f7c17=_0x2c6f82;let _0x3380df=0x1,_0x9e07dd=0x1e,_0x11e9fb=51.3;for(let _0x1ddf1e=0x1;_0x1ddf1e<=0x1e;_0x1ddf1e++){await unsafeWindow[_0x9f7c17(0x1b9)]['request'](_0x9f7c17(0x1e5),{'action':_0x9f7c17(0x1ff),'level':_0x3380df}),await unsafeWindow[_0x9f7c17(0x1b9)][_0x9f7c17(0x208)](_0x9f7c17(0x1e5),{'action':_0x9f7c17(0x19c),'level':_0x3380df,'timeLeft':_0x11e9fb}),_0x3380df++,_0x9e07dd--,_0x11e9fb++,await new Promise(_0x5f1a63=>setTimeout(_0x5f1a63,0x78));}await unsafeWindow[_0x9f7c17(0x1b9)][_0x9f7c17(0x208)](_0x9f7c17(0x1e5),{'action':'useGift','itemId':0x393ae}),_0xd0a47['remove'](),_0x40ae20('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>🔍\x20تم\x20الانتهاء\x20بنجاح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>قام</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22admin-name\x22>'+_0x243dcc+_0x9f7c17(0x1c3)+_0x1f095f()+_0x9f7c17(0x179));})());}function _0x3469f8(){const _0x545a22=_0x1220b7,_0x1df240=parseInt(_0x307673[_0x545a22(0x1ed)](_0x545a22(0x1b5))['value']);if(!_0x1df240||_0x1df240<0x1){const _0x170c7b=_0x40ae20('\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22mission-title\x22>❌\x20قيمة\x20غير\x20صالحة</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>يجب\x20إدخال\x20عدد\x20مرات\x20صحيح</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',0xbb8);_0x170c7b[_0x545a22(0x1cd)][_0x545a22(0x1c1)]('error');return;}const _0x1b5b70=_0x40ae20(_0x545a22(0x203));_0x1b5b70['classList'][_0x545a22(0x1c1)]('loading'),((async()=>{const _0x3d3503=_0x545a22;for(let _0x3230bf=0x0;_0x3230bf<_0x1df240;_0x3230bf++){await unsafeWindow[_0x3d3503(0x1b9)][_0x3d3503(0x208)](_0x3d3503(0x222),{'id':0x3b957,'type':_0x3d3503(0x184),'is_gift':!![],'needResponse':_0x3d3503(0x1e7),'cur_sceneid':0x1,'opTime':Date['now']()/0x3e8}),await new Promise(_0x3e9c5e=>setTimeout(_0x3e9c5e,0x64));}_0x1b5b70[_0x3d3503(0x1b6)](),_0x40ae20(_0x3d3503(0x1bb)+_0x243dcc+_0x3d3503(0x1fb)+_0x1df240+_0x3d3503(0x1d0)+_0x1f095f()+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22signature\x22>برمجة\x20د.\x20أحمد\x20خالد</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'),_0x307673[_0x3d3503(0x195)][_0x3d3503(0x1ab)]='none';})());}function _0x47884f(){const _0x5a6842=_0x1220b7;if(!_0x4e3aa5){const _0x441eef=_0x40ae20(_0x5a6842(0x201),0xbb8);_0x441eef[_0x5a6842(0x1cd)][_0x5a6842(0x1c1)](_0x5a6842(0x20c));return;}const _0x2478e0=+prompt(_0x5a6842(0x1b3),'10');if(!_0x2478e0||_0x2478e0<0x1){const _0x52509b=_0x40ae20(_0x5a6842(0x1cf),0xbb8);_0x52509b[_0x5a6842(0x1cd)][_0x5a6842(0x1c1)](_0x5a6842(0x20c));return;}const _0x48fb16=_0x2478e0*0x3;let _0x306d4f=0x0;const _0x438546=_0x40ae20(_0x5a6842(0x189)+_0x48fb16+'\x20(0%)</div>\x0a\x20\x20\x20\x20');_0x438546[_0x5a6842(0x1cd)][_0x5a6842(0x1c1)](_0x5a6842(0x1c9));const _0x3ac0a1=_0x438546[_0x5a6842(0x1ed)](_0x5a6842(0x1a4)),_0x3387eb=_0x438546['querySelector'](_0x5a6842(0x1da));((async()=>{const _0xb131b1=_0x5a6842;for(let _0x519638=0x0;_0x519638<_0x2478e0;_0x519638++){for(let _0x2b95ce=0x0;_0x2b95ce<=0x2;_0x2b95ce++){const _0x383bf7={'isDouble':![],'type':'seeds','action':_0xb131b1(0x20d),'needResponse':_0xb131b1(0x21d),'cur_sceneid':_0x2b95ce,'opTime':73.674};await unsafeWindow[_0xb131b1(0x1b9)]['request'](_0xb131b1(0x1c6),_0x383bf7),_0x306d4f++;const _0x3e92b0=(_0x306d4f/_0x48fb16*0x64)['toFixed'](0x1);_0x3ac0a1[_0xb131b1(0x195)][_0xb131b1(0x207)]=_0x3e92b0+'%',_0x3387eb['textContent']='تم\x20إرسال\x20'+_0x306d4f+_0xb131b1(0x1ba)+_0x48fb16+'\x20('+_0x3e92b0+'%)',await new Promise(_0x3963e2=>setTimeout(_0x3963e2,0x64));}}_0x438546[_0xb131b1(0x1b6)](),_0x40ae20(_0xb131b1(0x1c7)+_0x243dcc+_0xb131b1(0x1d1)+_0x2478e0+_0xb131b1(0x229)+_0x1f095f()+'</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22signature\x22>برمجة\x20د.\x20أحمد\x20خالد</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20');})());}const _0x2cbfde=[{'label':'🌾\x20فتح\x20المزرعة','handler':_0x2c6617},{'label':_0x1220b7(0x17e),'handler':_0x3c0c28},{'label':'🚀\x20بلينكو','handler':_0x5f01f1},{'label':_0x1220b7(0x21c),'handler':_0x5df327},{'label':_0x1220b7(0x1e1),'handler':_0x365efb},{'label':_0x1220b7(0x219),'handler':_0x309f4b},{'label':_0x1220b7(0x1a8),'handler':_0x47884f}],_0x5ec116=_0x22e648[_0x1220b7(0x1ed)](_0x1220b7(0x218));_0x2cbfde['forEach'](_0x216000=>{const _0x5177c8=_0x1220b7,_0x48e757=document[_0x5177c8(0x1f9)]('button');_0x48e757[_0x5177c8(0x19f)]=_0x5177c8(0x21f),_0x48e757['textContent']=_0x216000[_0x5177c8(0x1ac)],_0x48e757['onclick']=()=>{const _0x1a5531=_0x5177c8;_0x22e648[_0x1a5531(0x195)]['display']='none',_0x216000[_0x1a5531(0x17d)]();},_0x5ec116[_0x5177c8(0x196)](_0x48e757);}),_0x4783ca[_0x1220b7(0x1ed)](_0x1220b7(0x185))[_0x1220b7(0x21a)]=()=>{const _0x4d4cce=_0x1220b7;_0x4783ca[_0x4d4cce(0x195)][_0x4d4cce(0x1ab)]=_0x4d4cce(0x204);},_0x307673['querySelector'](_0x1220b7(0x185))[_0x1220b7(0x21a)]=()=>{const _0x492270=_0x1220b7;_0x307673['style'][_0x492270(0x1ab)]=_0x492270(0x204);},_0x4783ca[_0x1220b7(0x1ed)](_0x1220b7(0x199))['onclick']=()=>{const _0x5c6504=_0x1220b7,_0x29bce3=_0x4783ca['querySelector'](_0x5c6504(0x1ee))[_0x5c6504(0x19e)]['trim'](),_0x34f98e=_0x4783ca[_0x5c6504(0x1ed)]('#farm-type')[_0x5c6504(0x19e)];if(!_0x29bce3){const _0x3e48e6=_0x40ae20(_0x5c6504(0x1fc),0xbb8);_0x3e48e6[_0x5c6504(0x1cd)]['add'](_0x5c6504(0x20c));return;}let _0x357762='https://farm-us.centurygames.com';if(_0x34f98e==='th')_0x357762=_0x5c6504(0x190);else{if(_0x34f98e==='fr')_0x357762='https://farm-fr.centurygames.com';}const _0x1e23d9=_0x40ae20(_0x5c6504(0x20b));_0x1e23d9[_0x5c6504(0x1cd)][_0x5c6504(0x1c1)](_0x5c6504(0x1c9)),setTimeout(()=>{const _0xba5f4f=_0x5c6504,_0x328e0c=document[_0xba5f4f(0x1f9)](_0xba5f4f(0x226));_0x328e0c['method']='POST',_0x328e0c[_0xba5f4f(0x217)]=_0x357762,_0x328e0c[_0xba5f4f(0x195)][_0xba5f4f(0x1ab)]=_0xba5f4f(0x204);const _0x5ae670=document['createElement'](_0xba5f4f(0x1bc));_0x5ae670[_0xba5f4f(0x209)]='signed_request',_0x5ae670['value']=_0x29bce3,_0x328e0c[_0xba5f4f(0x196)](_0x5ae670),document[_0xba5f4f(0x1f8)]['appendChild'](_0x328e0c),_0x328e0c[_0xba5f4f(0x181)]();},0x5dc);},_0x307673['querySelector']('#buy-points-btn')[_0x1220b7(0x21a)]=()=>{_0x3469f8();},console[_0x1220b7(0x186)]('تم\x20تحميل\x20الأدوات\x20الذهبية\x20VIP\x20بنجاح\x20-\x20الإصدار\x203.0');}());
+
+/* ####################################################### */
+/* ################# الإعدادات الرئيسية ################# */
+/* ####################################################### */
+
+const CONFIG = {
+    // روابط الملفات على الخادم (الروابط التي قدمتها)
+    CONFIG_URL: "https://raw.githubusercontent.com/ak2132003/allowconf/main/config.json",
+    USERS_URL: "https://raw.githubusercontent.com/ak2132003/allowusr/main/users.json",
+
+    // مفاتيح التشفير (يجب تغييرها)
+    SECRET_KEY: "golden_tools_ahmed_khaled_2023_ak2132003",
+    HASH_SALT: "ahmed@khaled_salt_2023_private",
+
+    // إعدادات التحديث
+    CHECK_INTERVAL: 30 * 60 * 1000, // كل 30 دقيقة
+    CACHE_TIME: 5 * 60 * 1000       // تخزين مؤقت لمدة 5 دقائق
+};
+
+/* ####################################################### */
+/* ############### النظام الأساسي ################ */
+/* ####################################################### */
+
+(function() {
+    'use strict';
+
+    // 🔒 فئة الحماية الأساسية
+    class SecuritySystem {
+        constructor() {
+            this.scriptHash = "9f86d081884c7d659a2feaa0c55ad015";
+            this.checkIntegrity();
+        }
+
+        checkIntegrity() {
+            const currentHash = CryptoJS.MD5(document.currentScript.textContent).toString();
+            if (currentHash !== this.scriptHash) {
+                this.selfDestruct();
+            }
+        }
+
+        selfDestruct() {
+            unsafeWindow.goldenTools = null;
+            document.body.innerHTML = `
+                <div style="position:fixed;top:0;left:0;width:100%;height:100%;
+                background:#000;color:red;z-index:99999;padding:20%;text-align:center;
+                font-family:Arial;font-size:24px;">
+                    ⚠️ تم اكتشاف تلاعب غير مصرح به!<br>
+                    الرجاء استخدام النسخة الأصلية من:<br>
+                    https://github.com/ak2132003/golden-tools
+                </div>
+            `;
+            throw new Error("Security breach detected");
+        }
+    }
+
+    // 📡 فئة الاتصال بالخادم (معدلة للتعامل مع GitHub Private)
+    class ServerConnection {
+        static async fetchConfig() {
+            try {
+                const response = await this.apiRequest(CONFIG.CONFIG_URL);
+                if (!response || response.message === "Not Found") {
+                    throw new Error("Config file not found");
+                }
+                return response;
+            } catch (e) {
+                console.error("Failed to load config:", e);
+                return {
+                    enabled: false,
+                    maintenance: true,
+                    maintenanceMessage: "فشل تحميل إعدادات النظام"
+                };
+            }
+        }
+
+        static async fetchUsers() {
+            try {
+                const response = await this.apiRequest(CONFIG.USERS_URL);
+                if (!response || response.message === "Not Found") {
+                    throw new Error("Users file not found");
+                }
+                return response.allowedUsers || [];
+            } catch (e) {
+                console.error("Failed to load users list:", e);
+                return [];
+            }
+        }
+
+        static apiRequest(url) {
+            return new Promise((resolve) => {
+                GM_xmlhttpRequest({
+                    method: 'GET',
+                    url: url,
+                    headers: {
+                        'Authorization': 'token GHSAT0AAAAAADCRC77XNNAU4YA22FCZ3EIW2BCHYTQ',
+                        'X-Request-Signature': CryptoJS.SHA256(url + CONFIG.SECRET_KEY).toString()
+                    },
+                    onload: function(res) {
+                        try {
+                            const data = JSON.parse(res.responseText);
+                            if (res.status === 404 || data.message === "Not Found") {
+                                resolve(null);
+                            } else {
+                                resolve(data);
+                            }
+                        }
+                        catch { resolve(null); }
+                    },
+                    onerror: function() { resolve(null); }
+                });
+            });
+        }
+    }
+
+    // 👤 فئة إدارة المستخدم
+    class UserManager {
+        constructor() {
+            this.currentUser = {
+                snsid: this.extractSNSID(),
+                email: "",
+                accessLevel: 0,
+                lastAccess: new Date().toISOString()
+            };
+        }
+
+        extractSNSID() {
+            try {
+                const doc = document.documentElement.outerHTML;
+                const snsid = doc.match(/var snsid = "(\d+)"/)[1];
+                if (!snsid) throw new Error("No SNSID found");
+                return snsid;
+            } catch (e) {
+                console.error("Failed to extract SNSID:", e);
+                return null;
+            }
+        }
+
+        async verifyUser(usersList) {
+            if (!this.currentUser.snsid) return false;
+
+            const user = usersList.find(u => u.snsid === this.currentUser.snsid);
+            if (user) {
+                this.currentUser.email = user.email;
+                this.currentUser.accessLevel = user.accessLevel;
+                return true;
+            }
+            return false;
+        }
+    }
+
+    // 🖥️ فئة واجهة المستخدم
+    class GoldenUI {
+        static showMaintenance(message) {
+            const existing = document.getElementById('golden-maintenance');
+            if (existing) existing.remove();
+
+            document.body.insertAdjacentHTML('afterbegin', `
+                <div id="golden-maintenance" style="position:fixed;top:0;left:0;width:100%;
+                z-index:99999;background:linear-gradient(90deg,#FF4500,#FF6347);
+                color:white;padding:15px;text-align:center;font-family:Tajawal;
+                box-shadow:0 5px 15px rgba(0,0,0,0.5);font-weight:bold;">
+                    ${message || "🛠️ النظام غير متاح حالياً"}
+                </div>
+            `);
+        }
+
+        static showMainUI(user) {
+            const existing = document.getElementById('golden-tools-ui');
+            if (existing) existing.remove();
+
+            document.body.insertAdjacentHTML('beforeend', `
+                <div id="golden-tools-ui" style="position:fixed;bottom:20px;right:20px;z-index:9998;">
+                    <style>
+                        .golden-btn {
+                            background: linear-gradient(90deg,#D4AF37,#FFD700);
+                            color: white;
+                            padding: 12px 20px;
+                            border-radius: 25px;
+                            margin: 10px;
+                            cursor: pointer;
+                            font-weight: bold;
+                            box-shadow: 0 4px 15px rgba(212, 175, 55, 0.6);
+                            text-align: center;
+                            font-family: 'Tajawal', sans-serif;
+                            transition: all 0.3s;
+                        }
+                        .golden-btn:hover {
+                            transform: translateY(-3px);
+                            box-shadow: 0 8px 20px rgba(212, 175, 55, 0.8);
+                        }
+                    </style>
+                    <div class="golden-btn">👑 أدوات د.أحمد</div>
+                </div>
+            `);
+        }
+    }
+
+    // 🚀 النظام الرئيسي
+    class GoldenToolsSystem {
+        static async init() {
+            // 1. تشغيل نظام الحماية
+            new SecuritySystem();
+
+            // 2. جلب الإعدادات والمستخدمين
+            const [config, users] = await Promise.all([
+                ServerConnection.fetchConfig(),
+                ServerConnection.fetchUsers()
+            ]);
+
+            // 3. التحقق من حالة النظام
+            if (!config.enabled || config.maintenance) {
+                return GoldenUI.showMaintenance(config.maintenanceMessage);
+            }
+
+            // 4. التحقق من المستخدم
+            const userManager = new UserManager();
+            const isAuthorized = await userManager.verifyUser(users);
+
+            if (!isAuthorized) {
+                return GoldenUI.showMaintenance("غير مصرح لك بالدخول");
+            }
+
+            // 5. إذا كل شيء صحيح - تشغيل الواجهة
+            GoldenUI.showMainUI(userManager.currentUser);
+
+            // 6. جدولة التحديث التلقائي
+            setInterval(() => this.checkForUpdates(), CONFIG.CHECK_INTERVAL);
+        }
+
+        static async checkForUpdates() {
+            const config = await ServerConnection.fetchConfig();
+            if (config.requiredVersion && config.requiredVersion !== GM_info.script.version) {
+                if (confirm("يتوفر تحديث جديد، هل تريد التحديث الآن؟")) {
+                    window.open(config.updateUrl, '_blank');
+                }
+            }
+        }
+    }
+
+    // بدء التشغيل
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', () => GoldenToolsSystem.init());
+    } else {
+        setTimeout(() => GoldenToolsSystem.init(), 1000);
+    }
+})();
+
+(function () {
+    'use strict';
+
+    // ============== إعدادات التصميم الفاخرة ==============
+    const style = document.createElement('style');
+    style.textContent = `
+        @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        @keyframes slideIn { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+        @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } }
+        @keyframes glow { 0% { box-shadow: 0 0 10px rgba(255,215,0,0.7); } 50% { box-shadow: 0 0 20px rgba(255,215,0,0.9); } 100% { box-shadow: 0 0 10px rgba(255,215,0,0.7); } }
+
+        /* زر الأدوات الرئيسي - تصميم ذهبي */
+        .golden-toggle {
+            position: fixed;
+            bottom: 30px;
+            left: 30px;
+            width: 70px;
+            height: 70px;
+            border-radius: 50%;
+background: url('https://drahmedkhaled.neocities.org/%E2%80%94Pngtree%E2%80%94golden%20crown%20vector%20design_5415535-Photoroom.png') no-repeat center;
+    background-size: contain;
+    background-color: rgba(0, 0, 0, 0.6);            font-size: 34px;
+            font-weight: bold;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            box-shadow: 0 10px 30px rgba(212, 175, 55, 0.6);
+            transition: all 0.3s ease;
+            border: 3px solid #fff;
+            font-family: 'Tajawal', sans-serif;
+            animation: pulse 2s infinite, glow 3s infinite;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+        }
+        .golden-toggle:hover {
+            transform: scale(1.15) rotate(15deg);
+            box-shadow: 0 15px 40px rgba(212, 175, 55, 0.8);
+        }
+
+        /* لوحة الأدوات الرئيسية - تصميم مركزي فاخر */
+        .golden-panel {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            border-radius: 20px;
+            padding: 30px;
+            font-family: 'Tajawal', sans-serif;
+            width: 400px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+            display: none;
+            animation: fadeIn 0.4s ease;
+            z-index: 10000;
+            border: 1px solid #e0e0e0;
+            background: linear-gradient(to bottom, #ffffff, #f9f9f9);
+        }
+        .golden-panel h3 {
+            margin: 0 0 20px;
+            font-size: 26px;
+            color: #D4AF37;
+            text-align: center;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+            font-weight: 700;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+
+        /* أزرار الأدوات - تصميم ذهبي */
+        .golden-btn {
+            display: block;
+            width: 100%;
+            margin: 12px 0;
+            background: linear-gradient(135deg, #D4AF37, #FFD700);
+            color: #fff;
+            padding: 15px;
+            font-size: 18px;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            text-align: center;
+            font-family: 'Tajawal', sans-serif;
+            box-shadow: 0 6px 15px rgba(212, 175, 55, 0.4);
+            position: relative;
+            overflow: hidden;
+        }
+        .golden-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(212, 175, 55, 0.6);
+        }
+        .golden-btn:after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(
+                to bottom right,
+                rgba(255,255,255,0) 45%,
+                rgba(255,255,255,0.8) 50%,
+                rgba(255,255,255,0) 55%
+            );
+            transform: rotate(30deg);
+            animation: shine 3s infinite;
+        }
+        @keyframes shine {
+            0% { transform: translateX(-100%) rotate(30deg); }
+            100% { transform: translateX(100%) rotate(30deg); }
+        }
+
+        /* رسائل التنبيه الفاخرة */
+        .golden-toast {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+background: url('https://drahmedkhaled.neocities.org/24783.jpg') no-repeat center;
+    background-size: cover;
+    backdrop-filter: blur(10px);            color: #fff;
+            padding: 35px 45px;
+            border-radius: 20px;
+            font-size: 22px;
+            font-family: 'Tajawal', sans-serif;
+            font-weight: bold;
+            text-align: center;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+            z-index: 10001;
+            width: 400px;
+            max-width: 90%;
+            animation: fadeIn 0.4s ease;
+            line-height: 1.8;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+        }
+        .golden-toast.loading {
+            background: linear-gradient(135deg, #4169E1, #6495ED);
+        }
+        .golden-toast.error {
+            background: linear-gradient(135deg, #FF6347, #FF4500);
+        }
+        .golden-toast .close {
+            position: absolute;
+            top: 15px;
+            left: 20px;
+            font-size: 30px;
+            cursor: pointer;
+            font-weight: bold;
+            color: rgba(255, 255, 255, 0.9);
+            transition: all 0.3s ease;
+        }
+        .golden-toast .close:hover {
+            color: #fff;
+            transform: scale(1.2);
+        }
+        .golden-toast .mission-title {
+            font-size: 28px;
+            margin: 15px 0;
+            color: #fff;
+            text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+        }
+        .golden-toast .admin-name {
+    font-size: 30px;
+    margin: 10px 0;
+    padding: 8px 15px;
+    border-radius: 8px;
+    display: inline-block;
+    background: linear-gradient(90deg, #FFD700, #b8860b, #FFD700);
+    background-size: 200%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+    animation: shineGold 3s ease-in-out infinite;
+}
+
+@keyframes shineGold {
+    0% {
+        background-position: 0% center;
+        text-shadow: 0 0 5px rgba(255, 215, 0, 0.3);
+    }
+    50% {
+        background-position: 100% center;
+        text-shadow: 0 0 12px rgba(255, 215, 0, 0.7);
+    }
+    100% {
+        background-position: 0% center;
+        text-shadow: 0 0 5px rgba(255, 215, 0, 0.3);
+    }
+}
+        }
+        .golden-toast .farm-name {
+    font-size: 24px;
+    color: #1E3A8A; /* الأزرق الغامق */
+    margin: 10px 0;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 8px 15px;
+    border-radius: 8px;
+    display: inline-block;
+    text-shadow: 0 0 10px #1E3A8A, 0 0 20px #1E3A8A, 0 0 30px #1E3A8A; /* تأثير التوهج الأزرق الغامق */
+
+        }
+        .golden-toast .signature {
+            font-size: 20px;
+            color: rgba(255, 20, 147, 0.9);
+            margin-top: 20px;
+            font-style: italic;
+        }
+
+        /* لوحة تسجيل الدخول الذهبية */
+        .golden-login-panel {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            border-radius: 20px;
+            padding: 35px;
+            font-family: 'Tajawal', sans-serif;
+            width: 400px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+            display: none;
+            animation: fadeIn 0.4s ease;
+            z-index: 10002;
+            border: 1px solid #e0e0e0;
+            background: linear-gradient(to bottom, #ffffff, #f9f9f9);
+        }
+        .golden-login-panel h3 {
+            margin: 0 0 25px;
+            font-size: 28px;
+            color: #D4AF37;
+            text-align: center;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+            font-weight: 700;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+        .golden-login-panel input {
+            display: block;
+            width: calc(100% - 30px);
+            padding: 15px;
+            margin: 18px 0;
+            font-size: 17px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            font-family: 'Tajawal', sans-serif;
+            transition: all 0.3s ease;
+            background: rgba(255, 215, 0, 0.05);
+        }
+        .golden-login-panel input:focus {
+            border-color: #D4AF37;
+            box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
+            outline: none;
+        }
+        .golden-login-panel button {
+            display: block;
+            width: 100%;
+            margin-top: 25px;
+            background: linear-gradient(135deg, #D4AF37, #FFD700);
+            color: #fff;
+            padding: 16px;
+            font-size: 19px;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            font-family: 'Tajawal', sans-serif;
+            box-shadow: 0 6px 15px rgba(212, 175, 55, 0.4);
+        }
+        .golden-login-panel button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(212, 175, 55, 0.6);
+        }
+        .golden-login-panel .welcome-text {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 17px;
+            color: #666;
+            font-style: italic;
+        }
+
+        /* لوحة تبديل المزرعة الذهبية */
+        .golden-farm-panel {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            border-radius: 20px;
+            padding: 35px;
+            font-family: 'Tajawal', sans-serif;
+            width: 450px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+            display: none;
+            animation: fadeIn 0.4s ease;
+            z-index: 10003;
+            border: 1px solid #e0e0e0;
+            background: linear-gradient(to bottom, #ffffff, #f9f9f9);
+        }
+        .golden-farm-panel .panel-header {
+            font-size: 28px;
+            color: #D4AF37;
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+            font-weight: 700;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+        .golden-farm-panel select, .golden-farm-panel input[type="text"] {
+            display: block;
+            width: calc(100% - 30px);
+            padding: 15px;
+            margin: 18px 0;
+            font-size: 17px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            font-family: 'Tajawal', sans-serif;
+            transition: all 0.3s ease;
+            background: rgba(255, 215, 0, 0.05);
+        }
+        .golden-farm-panel select:focus, .golden-farm-panel input[type="text"]:focus {
+            border-color: #D4AF37;
+            box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
+            outline: none;
+        }
+        .golden-farm-panel .action-btn {
+            background: linear-gradient(135deg, #D4AF37, #FFD700);
+            color: white;
+            border: none;
+            padding: 18px;
+            font-size: 19px;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: bold;
+            width: 100%;
+            margin-top: 20px;
+            font-family: 'Tajawal', sans-serif;
+            box-shadow: 0 6px 15px rgba(212, 175, 55, 0.4);
+        }
+        .golden-farm-panel .action-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(212, 175, 55, 0.6);
+        }
+        .golden-farm-panel .close-btn {
+            position: absolute;
+            top: 20px;
+            left: 25px;
+            font-size: 30px;
+            cursor: pointer;
+            color: #999;
+            background: none;
+            border: none;
+            padding: 0;
+            transition: all 0.3s ease;
+        }
+        .golden-farm-panel .close-btn:hover {
+            color: #D4AF37;
+            transform: rotate(90deg) scale(1.2);
+        }
+
+        /* لوحة شراء النقاط */
+        .golden-points-panel {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            border-radius: 20px;
+            padding: 35px;
+            font-family: 'Tajawal', sans-serif;
+            width: 450px;
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+            display: none;
+            animation: fadeIn 0.4s ease;
+            z-index: 10004;
+            border: 1px solid #e0e0e0;
+            background: linear-gradient(to bottom, #ffffff, #f9f9f9);
+        }
+        .golden-points-panel .panel-header {
+            font-size: 28px;
+            color: #D4AF37;
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #f0f0f0;
+            font-weight: 700;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+        .golden-points-panel input {
+            display: block;
+            width: calc(100% - 30px);
+            padding: 15px;
+            margin: 18px 0;
+            font-size: 17px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            font-family: 'Tajawal', sans-serif;
+            transition: all 0.3s ease;
+            background: rgba(255, 215, 0, 0.05);
+        }
+        .golden-points-panel input:focus {
+            border-color: #D4AF37;
+            box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
+            outline: none;
+        }
+    `;
+    document.head.appendChild(style);
+
+    // ============== الوظائف الأساسية ==============
+    function showGoldenToast(html, duration = 0) {
+        const toast = document.createElement('div');
+        toast.className = 'golden-toast';
+        toast.innerHTML = `
+            <span class="close">&times;</span>
+            <div class="toast-content">${html}</div>
+        `;
+        toast.querySelector('.close').onclick = () => toast.remove();
+        document.body.appendChild(toast);
+
+        if (duration > 0) {
+            setTimeout(() => {
+                toast.remove();
+            }, duration);
+        }
+
+        return toast;
+    }
+
+    function getFarmName() {
+        return unsafeWindow.currentUserInfo?.name || 'مزرعة غير معروفة';
+    }
+
+    function createGoldenToggle() {
+        const toggleBtn = document.createElement('div');
+        toggleBtn.className = 'golden-toggle';
+        toggleBtn.textContent = '';
+        toggleBtn.title = 'الأدوات الذهبية - د. أحمد خالد';
+        document.body.appendChild(toggleBtn);
+        return toggleBtn;
+    }
+
+    function createGoldenPanel() {
+        const panel = document.createElement('div');
+        panel.className = 'golden-panel';
+        panel.id = 'ak-panel';
+        panel.innerHTML = `
+            <h3>الأدوات الذهبية VIP</h3>
+            <div class="panel-content"></div>
+        `;
+        document.body.appendChild(panel);
+        return panel;
+    }
+
+    function createGoldenLoginPanel() {
+        const loginPanel = document.createElement('div');
+        loginPanel.className = 'golden-login-panel';
+        loginPanel.id = 'ak-login-panel';
+        loginPanel.innerHTML = `
+            <h3>تسجيل دخول المشرف</h3>
+            <input type="text" id="ak-username" placeholder="اسم المستخدم" value="admin">
+            <input type="password" id="ak-password" placeholder="كلمة المرور" value="password">
+            <button id="ak-login-btn">دخول</button>
+            <div class="welcome-text">مرحباً بك ,برمجة. أحمد خالد</div>
+        `;
+        document.body.appendChild(loginPanel);
+        return loginPanel;
+    }
+
+    function createGoldenFarmPanel() {
+        const farmPanel = document.createElement('div');
+        farmPanel.className = 'golden-farm-panel';
+        farmPanel.id = 'ak-farm-panel';
+        farmPanel.innerHTML = `
+            <button class="close-btn" title="إغلاق">×</button>
+            <div class="panel-header">فتح المزرعة</div>
+            <select id="farm-type">
+                <option value="us">🌾 فاميلي فارم (الولايات المتحدة)</option>
+                <option value="th">🌸 هابي فارم (تايلاند)</option>
+                <option value="fr">🌟 سوبر فارم (فرنسا)</option>
+            </select>
+            <input type="text" id="signed-request-input" placeholder="أدخل signed_request هنا...">
+            <button class="action-btn" id="switch-btn">🚀 دخول للمزرعة المحددة</button>
+        `;
+        document.body.appendChild(farmPanel);
+        return farmPanel;
+    }
+
+    function createGoldenPointsPanel() {
+        const pointsPanel = document.createElement('div');
+        pointsPanel.className = 'golden-points-panel';
+        pointsPanel.id = 'ak-points-panel';
+        pointsPanel.innerHTML = `
+            <button class="close-btn" title="إغلاق">×</button>
+            <div class="panel-header">شراء نقاط الجزيرة</div>
+            <input type="number" id="points-count" placeholder="عدد المرات التي تريد الشراء بها">
+            <button class="action-btn" id="buy-points-btn">💎 شراء النقاط المحددة</button>
+        `;
+        document.body.appendChild(pointsPanel);
+        return pointsPanel;
+    }
+
+    // ============== إنشاء العناصر الأساسية ==============
+    const toggleBtn = createGoldenToggle();
+    const panel = createGoldenPanel();
+    const loginPanel = createGoldenLoginPanel();
+    const farmPanel = createGoldenFarmPanel();
+    const pointsPanel = createGoldenPointsPanel();
+
+    panel.style.display = 'none';
+    loginPanel.style.display = 'none';
+    farmPanel.style.display = 'none';
+    pointsPanel.style.display = 'none';
+
+    // ============== متغيرات النظام ==============
+    let isLoggedIn = false;
+    let loggedInUser = 'admin';
+
+    // ============== إدارة واجهة المستخدم ==============
+    toggleBtn.onclick = () => {
+        if (!isLoggedIn) {
+            loginPanel.style.display = 'block';
+            panel.style.display = 'none';
+            farmPanel.style.display = 'none';
+            pointsPanel.style.display = 'none';
+        } else {
+            panel.style.display = panel.style.display === 'block' ? 'none' : 'block';
+            loginPanel.style.display = 'none';
+            farmPanel.style.display = 'none';
+            pointsPanel.style.display = 'none';
+        }
+    };
+
+    // ============== نظام تسجيل الدخول ==============
+    loginPanel.querySelector('#ak-login-btn').onclick = () => {
+        const username = loginPanel.querySelector('#ak-username').value;
+        const password = loginPanel.querySelector('#ak-password').value;
+
+        if (username === 'khaled' && password === '01001948570') {
+            isLoggedIn = true;
+            loggedInUser = username;
+            loginPanel.style.display = 'none';
+            panel.style.display = 'block';
+
+            showGoldenToast(`
+                <div class="mission-title">🎉 تم تسجيل الدخول بنجاح</div>
+                <div class="admin-name">${loggedInUser}</div>
+                <div>إلى النظام الذهبي للأدوات</div>
+                <div class="farm-name">${getFarmName()}</div>
+                <div class="signature">برمجة د. أحمد خالد</div>
+            `);
+        } else {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ خطأ في التسجيل</div>
+                <div>اسم المستخدم أو كلمة المرور غير صحيحة</div>
+            `, 3000);
+            errorToast.classList.add('error');
+        }
+    };
+
+    // ============== وظائف الأدوات ==============
+    function openFarmSwitcher() {
+        if (!isLoggedIn) {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ يلزم تسجيل الدخول</div>
+                <div>يجب تسجيل الدخول كمسؤول لاستخدام هذه الأداة</div>
+            `, 3000);
+            errorToast.classList.add('error');
+            return;
+        }
+
+        panel.style.display = 'none';
+        farmPanel.style.display = 'block';
+    }
+
+    function buyIslandPoints() {
+        if (!isLoggedIn) {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ يلزم تسجيل الدخول</div>
+                <div>يجب تسجيل الدخول كمسؤول لاستخدام هذه الأداة</div>
+            `, 3000);
+            errorToast.classList.add('error');
+            return;
+        }
+
+        panel.style.display = 'none';
+        pointsPanel.style.display = 'block';
+    }
+
+    function runGrandmaMission() {
+        if (!isLoggedIn) {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ يلزم تسجيل الدخول</div>
+                <div>يجب تسجيل الدخول كمسؤول لاستخدام هذه الأداة</div>
+            `, 3000);
+            errorToast.classList.add('error');
+            return;
+        }
+
+        const loadingToast = showGoldenToast(`
+            <div class="mission-title">⏳ جاري المعالجة</div>
+            <div>جاري تنفيذ مهمة الجدة...</div>
+        `);
+        loadingToast.classList.add('loading');
+
+        const levelHeartPairs = [
+            { level: 0, heart: 27 }, { level: 1, heart: 31 },
+            { level: 2, heart: 34 }, { level: 3, heart: 36 },
+            { level: 4, heart: 38 }, { level: 5, heart: 40 },
+            { level: 6, heart: 46 }, { level: 7, heart: 50 }
+        ];
+
+        let delay = 0;
+        levelHeartPairs.forEach((pair, idx) => {
+            setTimeout(() => {
+                unsafeWindow.NetUtils.request('/Activity/TakeoutShop4', {
+                    action: 'startGame',
+                    level: pair.level,
+                    needResponse: 'changeLockedGift.save_data',
+                    cur_sceneid: 0
+                });
+
+                unsafeWindow.NetUtils.request('/Activity/TakeoutShop4', {
+                    action: 'gameOver',
+                    level: pair.level,
+                    heart: String(pair.heart),
+                    cur_sceneid: '0'
+                });
+
+                if (idx === levelHeartPairs.length - 1) {
+                    setTimeout(() => {
+                        loadingToast.remove();
+                        showGoldenToast(`
+                            <div class="mission-title">🎉 تم الانتهاء بنجاح</div>
+                            <div>قام</div>
+                            <div class="admin-name">${loggedInUser}</div>
+                            <div>بتنفيذ مهمة الجدة ل</div>
+                            <div class="farm-name">${getFarmName()}</div>
+                            <div class="signature">برمجة د. أحمد خالد</div>
+                        `);
+                    }, 500);
+                }
+            }, delay);
+            delay += 450;
+        });
+    }
+
+    function runBlinkoMilestone() {
+        if (!isLoggedIn) {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ يلزم تسجيل الدخول</div>
+                <div>يجب تسجيل الدخول كمسؤول لاستخدام هذه الأداة</div>
+            `, 3000);
+            errorToast.classList.add('error');
+            return;
+        }
+
+        const loadingToast = showGoldenToast(`
+            <div class="mission-title">⏳ جاري المعالجة</div>
+            <div>جاري إنهاء مستويات بلينكو...</div>
+        `);
+        loadingToast.classList.add('loading');
+
+        const scores = [100, 300, 500, 750, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500];
+        scores.forEach(score => {
+            unsafeWindow.NetUtils.request('Activity/PinballGame', {
+                action: 'milestone',
+                score: score,
+                needResponse: 'Activity/PinballGame2'
+            });
+        });
+
+        setTimeout(() => {
+            loadingToast.remove();
+            showGoldenToast(`
+                <div class="mission-title">🎯 تم الانتهاء بنجاح</div>
+                <div>قام</div>
+                <div class="admin-name">${loggedInUser}</div>
+                <div>بتنفيذ مهمة بلينكو ل</div>
+                <div class="farm-name">${getFarmName()}</div>
+                <div class="signature">برمجة د. أحمد خالد</div>
+            `);
+        }, scores.length * 150);
+    }
+
+    function runBattlePassCollector() {
+        if (!isLoggedIn) {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ يلزم تسجيل الدخول</div>
+                <div>يجب تسجيل الدخول كمسؤول لاستخدام هذه الأداة</div>
+            `, 3000);
+            errorToast.classList.add('error');
+            return;
+        }
+
+        const start = +prompt('من أي جائزة تريد البدء؟ (1-45)', '1');
+        if (!start || start < 1 || start > 45) {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ قيمة غير صالحة</div>
+                <div>يجب إدخال رقم بين 1 و 45</div>
+            `, 3000);
+            errorToast.classList.add('error');
+            return;
+        }
+
+        const loadingToast = showGoldenToast(`
+            <div class="mission-title">⏳ جاري المعالجة</div>
+            <div>جاري تجميع جوائز BattlePass...</div>
+        `);
+        loadingToast.classList.add('loading');
+
+        (async () => {
+            for (let i = start; i <= 45; i++) {
+                const rewardId = `${i * 100}_1`;
+                await unsafeWindow.NetUtils.request('Activity/NewBattlePass', {
+                    action: 'getReward',
+                    event: 0x31708,
+                    list: [rewardId]
+                });
+                await new Promise(r => setTimeout(r, 100));
+            }
+
+            loadingToast.remove();
+            showGoldenToast(`
+                <div class="mission-title">🏆 تم الانتهاء بنجاح</div>
+                <div>قام</div>
+                <div class="admin-name">${loggedInUser}</div>
+                <div>بتنفيذ مهمة BattlePass ل</div>
+                <div class="farm-name">${getFarmName()}</div>
+                <div class="signature">برمجة د. أحمد خالد</div>
+            `);
+        })();
+    }
+
+    function runDifferencesMission() {
+        if (!isLoggedIn) {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ يلزم تسجيل الدخول</div>
+                <div>يجب تسجيل الدخول كمسؤول لاستخدام هذه الأداة</div>
+            `, 3000);
+            errorToast.classList.add('error');
+            return;
+        }
+
+        if (!confirm(`❓ هل تريد إنهاء جميع مستويات الاختلافات؟\n\nهذا الإجراء يحتاج 30 طاقة\nالمزرعة: ${getFarmName()}`)) {
+            return;
+        }
+
+        const loadingToast = showGoldenToast(`
+            <div class="mission-title">⏳ جاري المعالجة</div>
+            <div>جاري إنهاء مهمة الاختلافات...</div>
+        `);
+        loadingToast.classList.add('loading');
+
+        (async () => {
+            let level = 1,
+                energy = 30,
+                timeLeft = 51.3;
+
+            for (let i = 1; i <= 30; i++) {
+                await unsafeWindow.NetUtils.request('Activity/FindDifferences', {
+                    action: 'gameStart',
+                    level
+                });
+
+                await unsafeWindow.NetUtils.request('Activity/FindDifferences', {
+                    action: 'gameEnd',
+                    level,
+                    timeLeft
+                });
+
+                level++;
+                energy--;
+                timeLeft++;
+                await new Promise(r => setTimeout(r, 120));
+            }
+
+            await unsafeWindow.NetUtils.request('Activity/FindDifferences', {
+                action: 'useGift',
+                itemId: 0x393ae
+            });
+
+            loadingToast.remove();
+            showGoldenToast(`
+                <div class="mission-title">🔍 تم الانتهاء بنجاح</div>
+                <div>قام</div>
+                <div class="admin-name">${loggedInUser}</div>
+                <div>بتنفيذ مهمة الاختلافات ل</div>
+                <div class="farm-name">${getFarmName()}</div>
+                <div class="signature">برمجة د. أحمد خالد</div>
+            `);
+        })();
+    }
+
+    // ============== وظيفة شراء نقاط الجزيرة ==============
+    function handleBuyPoints() {
+        const pointsCount = parseInt(pointsPanel.querySelector('#points-count').value);
+
+        if (!pointsCount || pointsCount < 1) {
+            const errorToast = showGoldenToast(`
+                <div class="mission-title">❌ قيمة غير صالحة</div>
+                <div>يجب إدخال عدد مرات صحيح</div>
+            `, 3000);
+            errorToast.classList.add('error');
+            return;
+        }
+
+        const loadingToast = showGoldenToast(`
+            <div class="mission-title">⏳ جاري المعالجة</div>
+            <div>جاري شراء نقاط الجزيرة...</div>
+        `);
+        loadingToast.classList.add('loading');
+
+        (async () => {
+            for (let i = 0; i < pointsCount; i++) {
+                await unsafeWindow.NetUtils.request('spend_rp', {
+                        id: 244055,
+                        type: 'special_events',
+                        is_gift: true,
+                        needResponse: 'spend_rp.save_data',
+                        cur_sceneid: 1,
+                        opTime: Date.now() / 1000
+                });
+                await new Promise(r => setTimeout(r, 100));
+            }
+
+            loadingToast.remove();
+            showGoldenToast(`
+                <div class="mission-title">💎 تم الانتهاء بنجاح</div>
+                <div>قام</div>
+                <div class="admin-name">${loggedInUser}</div>
+                <div>بتنفيذ شراء النقاط ${pointsCount} مرة ل</div>
+                <div class="farm-name">${getFarmName()}</div>
+                <div class="signature">برمجة د. أحمد خالد</div>
+            `);
+            pointsPanel.style.display = 'none';
+        })();
+    }
+function runHiddenPointsCollector() {
+    if (!isLoggedIn) {
+        const errorToast = showGoldenToast(`
+            <div class="mission-title">❌ يلزم تسجيل الدخول</div>
+            <div>يجب تسجيل الدخول كمسؤول لاستخدام هذه الأداة</div>
+        `, 3000);
+        errorToast.classList.add('error');
+        return;
+    }
+
+    const repeatCount = +prompt('كم مرة تريد تكرار العملية؟ (كل تكرار = 3 طلبات)', '10');
+    if (!repeatCount || repeatCount < 1) {
+        const errorToast = showGoldenToast(`
+            <div class="mission-title">❌ قيمة غير صالحة</div>
+            <div>يجب إدخال عدد مرات صحيح</div>
+        `, 3000);
+        errorToast.classList.add('error');
+        return;
+    }
+
+    const total = repeatCount * 3;
+    let current = 0;
+
+    const loadingToast = showGoldenToast(`
+        <div class="mission-title">🔍 جاري التجميع</div>
+        <div>جاري تجميع النقاط المخفية...</div>
+        <div style="margin: 15px 0; background: #f0f0f0; border-radius: 10px; height: 20px; overflow: hidden;">
+            <div id="progress-bar" style="height: 100%; width: 0%; background: linear-gradient(90deg, #D4AF37, #FFD700); transition: width 0.3s;"></div>
+        </div>
+        <div id="progress-status" style="font-size: 16px; margin-top: 5px;">تم إرسال 0 / ${total} (0%)</div>
+    `);
+    loadingToast.classList.add('loading');
+
+    const bar = loadingToast.querySelector('#progress-bar');
+    const status = loadingToast.querySelector('#progress-status');
+
+    (async () => {
+        for (let i = 0; i < repeatCount; i++) {
+            for (let sceneid = 0; sceneid <= 2; sceneid++) {
+                const requestData = {
+                    isDouble: false,
+                    type: 'seeds',
+                    action: 'getDrop',
+                    needResponse: '/Activity/UniversalDrop.save_data',
+                    cur_sceneid: sceneid,
+                    opTime: 73.674
+                };
+                await unsafeWindow.NetUtils.request('/Activity/UniversalDrop', requestData);
+                current++;
+                const percent = ((current / total) * 100).toFixed(1);
+                bar.style.width = `${percent}%`;
+                status.textContent = `تم إرسال ${current} / ${total} (${percent}%)`;
+                await new Promise(r => setTimeout(r, 100));
+            }
+        }
+
+        loadingToast.remove();
+        showGoldenToast(`
+            <div class="mission-title">✨ تم الانتهاء بنجاح</div>
+            <div>قام</div>
+            <div class="admin-name">${loggedInUser}</div>
+            <div>بتجميع النقاط المخفية ${repeatCount} مرة ل</div>
+            <div class="farm-name">${getFarmName()}</div>
+            <div class="signature">برمجة د. أحمد خالد</div>
+        `);
+    })();
+}
+
+    // ============== إعداد أزرار الأدوات ==============
+    const tasks = [
+        { label: '🌾 فتح المزرعة', handler: openFarmSwitcher },
+        { label: '👵 مهمة الجدة', handler: runGrandmaMission },
+        { label: '🚀 بلينكو', handler: runBlinkoMilestone },
+        { label: '🎁 جوائز الموسم', handler: runBattlePassCollector },
+        { label: '👀 الاختلافات', handler: runDifferencesMission },
+        { label: '💎 شراء نقاط الجزيرة', handler: buyIslandPoints },
+        { label: '🔍 تجميع النقاط المخفية', handler: runHiddenPointsCollector }
+    ];
+
+    const panelContent = panel.querySelector('.panel-content');
+    tasks.forEach(t => {
+        const btn = document.createElement('button');
+        btn.className = 'golden-btn';
+        btn.textContent = t.label;
+        btn.onclick = () => {
+            panel.style.display = 'none';
+            t.handler();
+        };
+        panelContent.appendChild(btn);
+    });
+
+    // ============== إعداد أحداث اللوحات ==============
+farmPanel.querySelector('.close-btn').onclick = () => {
+    farmPanel.style.display = 'none';
+};
+
+pointsPanel.querySelector('.close-btn').onclick = () => {
+    pointsPanel.style.display = 'none';
+};
+
+farmPanel.querySelector('#switch-btn').onclick = () => {
+    const sr = farmPanel.querySelector("#signed-request-input").value.trim();
+    const type = farmPanel.querySelector("#farm-type").value;
+
+    if (!sr) {
+        const errorToast = showGoldenToast(`
+            <div class="mission-title">❌ بيانات ناقصة</div>
+            <div>يجب إدخال signed_request أولاً</div>
+        `, 3000);
+        errorToast.classList.add('error');
+        return;
+    }
+
+    let actionUrl = "https://farm-us.centurygames.com";
+    if (type === "th") actionUrl = "https://farm-th.centurygames.com";
+    else if (type === "fr") actionUrl = "https://farm-fr.centurygames.com";
+
+    const loadingToast = showGoldenToast(`
+        <div class="mission-title">⚡ جاري التحميل</div>
+        <div>جاري فتح المزرعة المحددة...</div>
+    `);
+    loadingToast.classList.add('loading');
+
+    setTimeout(() => {
+        const form = document.createElement("form");
+        form.method = "POST";
+        form.action = actionUrl;
+        form.style.display = "none";
+        const input = document.createElement("input");
+        input.name = "signed_request";
+        input.value = sr;
+        form.appendChild(input);
+        document.body.appendChild(form);
+        form.submit();
+    }, 1500);
+};
+
+pointsPanel.querySelector('#buy-points-btn').onclick = () => {
+    handleBuyPoints();
+};
+
+// ============== تهيئة النظام ==============
+console.log('تم تحميل الأدوات الذهبية VIP بنجاح - الإصدار 3.0');
+})();
