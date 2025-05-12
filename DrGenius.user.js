@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         🏆 الأدوات الذهبية - النسخة المحمية
-// @namespace    https://github.com/ak2132003
+// @name         🏆 DR VIP by Ahmed Khaled
+// @namespace    https://www.facebook.com/Dr.Ahmed.FamilyFarm
 // @version      5.2
-// @description  نظام متكامل مع حماية متقدمة وإدارة مركزية مع دعم JSON
+// @description  نظام متكامل لكل المهمات 
 // @author       د.أحمد خالد 👑
 // @match        *://*.centurygames.com/*
 // @grant        GM_xmlhttpRequest
