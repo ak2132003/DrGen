@@ -19,7 +19,7 @@
     'use strict';
 
     // ============== روابط JSON ==============
-    const scriptStatusUrl = "https://raw.githubusercontent.com/ak2132003/DrGen/main/scriptStatus.json"; // رابط JSON للحالة
+    const scriptStatusUrl = "https://raw.githubusercontent.com/ak2132003/allowconf/refs/heads/main/scriptStatus.json"; // رابط JSON للحالة
     const allowedSNSIDsUrl = "https://raw.githubusercontent.com/ak2132003/DrGen/main/allowedSNSIDs.json"; // رابط JSON للـ SNSID
 
     let isScriptEnabled = true; // الحالة الافتراضية
