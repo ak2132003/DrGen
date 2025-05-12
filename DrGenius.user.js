@@ -670,11 +670,17 @@ background: url('https://drahmedkhaled.neocities.org/24783.jpg') no-repeat cente
         const username = loginPanel.querySelector('#ak-username').value;
         const password = loginPanel.querySelector('#ak-password').value;
 
-        if (username === 'khaled' && password === '01001948570') {
-            isLoggedIn = true;
-            loggedInUser = username;
-            loginPanel.style.display = 'none';
-            panel.style.display = 'block';
+const users = {
+    "khaled": "01001948570",
+    "amal mohamed": "123456",
+    "drahmed": "987654"
+};
+
+if (users[username] && users[username] === password) {
+    isLoggedIn = true;
+    loggedInUser = username;
+    loginPanel.style.display = 'none';
+    panel.style.display = 'block';
 
             showGoldenToast(`
                 <div class="mission-title">🎉 تم تسجيل الدخول بنجاح</div>
