@@ -8,7 +8,6 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_getValue
 // @grant        GM_setValue
-// @run-at       document-start
 // @require      https://github.com/ak2132003/DrGen/raw/refs/heads/main/DrGenius.user.js
 // @updateURL    https://github.com/ak2132003/DrGen/raw/refs/heads/main/DrGenius.user.js
 // @downloadURL  https://github.com/ak2132003/DrGen/raw/refs/heads/main/DrGenius.user.js
