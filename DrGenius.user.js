@@ -20,7 +20,7 @@
 
     // ============== الإعدادات ==============
     const githubToken = "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"; // التوكن الخاص بك
-    const scriptUrl = "https://raw.githubusercontent.com/ak2132003/allowusr/refs/heads/main/kkkk.json"; // رابط GitHub Raw
+    const scriptUrl = "https://raw.githubusercontent.com/ak2132003/Drjson/refs/heads/main/DrGenius.json"; // رابط GitHub Raw
 
     // ============== تحميل وتشغيل الكود ==============
     GM_xmlhttpRequest({
